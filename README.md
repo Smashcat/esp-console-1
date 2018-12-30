@@ -3,4 +3,6 @@ Little hand-held ESP8266 based console with 240x320 LCD display, SDCard storage,
 
 Please note, this design is currently in production and has not been tested (although I'm pretty confident it'll work as it's an interation on a previous design).
 
+Youtube video here: https://www.youtube.com/watch?v=sWY_PZYmeA4
+
 ![Photo of console board layout](http://www.smashcat.org/av/console_2.jpg)
