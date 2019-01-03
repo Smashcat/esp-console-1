@@ -6652,2731 +6652,6 @@ Source: http://www.cypress.com .. 38-12025_0P_V.pdf</description>
 </deviceset>
 </devicesets>
 </library>
-<library name="Panasonic-EEEFK_EEEFP">
-<description>&lt;b&gt; Developed By element14 &lt;/b&gt;&lt;p&gt; 
-
-For feedback and Technical support please contact reach from below:
-&lt;br&gt; Tech Support e-mail  : &lt;a href="mailto:CAD_Tech@element14.com"&gt;CAD_Tech@element14.com&lt;/a&gt;
-&lt;br&gt;Community website: &lt;a href=http://www.element14.com/community/community/knode/cad_tools/cadsoft_eagle/eagle_cad_libraries&gt;
-EAGLE CAD Libraries on element14&lt;/a&gt;</description>
-<packages>
-<package name="CAPAE430X610N">
-<smd name="1" x="-1.6764" y="0" dx="2.4638" dy="0.762" layer="1"/>
-<smd name="2" x="1.6764" y="0" dx="2.4638" dy="0.762" layer="1"/>
-<wire x1="3.1496" y1="-2.5146" x2="-3.1496" y2="-2.5146" width="0.1524" layer="39"/>
-<wire x1="-3.1496" y1="-2.5146" x2="-3.1496" y2="2.5146" width="0.1524" layer="39"/>
-<wire x1="-3.1496" y1="2.5146" x2="3.1496" y2="2.5146" width="0.1524" layer="39"/>
-<wire x1="3.1496" y1="2.5146" x2="3.1496" y2="-2.5146" width="0.1524" layer="39"/>
-<wire x1="2.2606" y1="0.7112" x2="2.2606" y2="2.2606" width="0.1524" layer="21"/>
-<wire x1="-2.2606" y1="-0.7112" x2="-2.2606" y2="-1.1176" width="0.1524" layer="21"/>
-<wire x1="-2.2606" y1="-1.1176" x2="-2.2606" y2="-2.2606" width="0.1524" layer="21"/>
-<wire x1="-3.6322" y1="0" x2="-4.3942" y2="0" width="0.1524" layer="21"/>
-<wire x1="-4.0132" y1="0.381" x2="-4.0132" y2="-0.381" width="0.1524" layer="21"/>
-<wire x1="-2.2606" y1="1.1176" x2="-1.1176" y2="2.2606" width="0.1524" layer="21"/>
-<wire x1="-2.2606" y1="-1.1176" x2="-1.1176" y2="-2.2606" width="0.1524" layer="21"/>
-<wire x1="-2.2606" y1="-2.2606" x2="2.2606" y2="-2.2606" width="0.1524" layer="21"/>
-<wire x1="2.2606" y1="-2.2606" x2="2.2606" y2="-0.7112" width="0.1524" layer="21"/>
-<wire x1="2.2606" y1="2.2606" x2="-2.2606" y2="2.2606" width="0.1524" layer="21"/>
-<wire x1="-2.2606" y1="2.2606" x2="-2.2606" y2="0.7112" width="0.1524" layer="21"/>
-<wire x1="-3.6322" y1="0" x2="-4.3942" y2="0" width="0.1524" layer="51"/>
-<wire x1="-4.0132" y1="0.381" x2="-4.0132" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="-2.2606" y1="1.1176" x2="-1.1176" y2="2.2606" width="0.1524" layer="51"/>
-<wire x1="-2.2606" y1="-1.1176" x2="-1.1176" y2="-2.2606" width="0.1524" layer="51"/>
-<wire x1="-2.2606" y1="-2.2606" x2="2.2606" y2="-2.2606" width="0.1524" layer="51"/>
-<wire x1="2.2606" y1="-2.2606" x2="2.2606" y2="2.2606" width="0.1524" layer="51"/>
-<wire x1="2.2606" y1="2.2606" x2="-2.2606" y2="2.2606" width="0.1524" layer="51"/>
-<wire x1="-2.2606" y1="2.2606" x2="-2.2606" y2="-2.2606" width="0.1524" layer="51"/>
-<text x="-4.826" y="2.6416" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
-<text x="-5.5372" y="-4.8006" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
-</package>
-<package name="CAPAE530X610N">
-<smd name="1" x="-1.9812" y="0" dx="2.8702" dy="0.762" layer="1"/>
-<smd name="2" x="1.9812" y="0" dx="2.8702" dy="0.762" layer="1"/>
-<wire x1="3.6576" y1="-2.9972" x2="-3.6576" y2="-2.9972" width="0.1524" layer="39"/>
-<wire x1="-3.6576" y1="-2.9972" x2="-3.6576" y2="2.9972" width="0.1524" layer="39"/>
-<wire x1="-3.6576" y1="2.9972" x2="3.6576" y2="2.9972" width="0.1524" layer="39"/>
-<wire x1="3.6576" y1="2.9972" x2="3.6576" y2="-2.9972" width="0.1524" layer="39"/>
-<wire x1="2.7432" y1="0.7112" x2="2.7432" y2="2.7432" width="0.1524" layer="21"/>
-<wire x1="-2.7432" y1="-0.7112" x2="-2.7432" y2="-1.3716" width="0.1524" layer="21"/>
-<wire x1="-2.7432" y1="-1.3716" x2="-2.7432" y2="-2.7432" width="0.1524" layer="21"/>
-<wire x1="-4.1402" y1="0" x2="-4.9022" y2="0" width="0.1524" layer="21"/>
-<wire x1="-4.5212" y1="0.381" x2="-4.5212" y2="-0.381" width="0.1524" layer="21"/>
-<wire x1="-2.7432" y1="1.3716" x2="-1.3716" y2="2.7432" width="0.1524" layer="21"/>
-<wire x1="-2.7432" y1="-1.3716" x2="-1.3716" y2="-2.7432" width="0.1524" layer="21"/>
-<wire x1="-2.7432" y1="-2.7432" x2="2.7432" y2="-2.7432" width="0.1524" layer="21"/>
-<wire x1="2.7432" y1="-2.7432" x2="2.7432" y2="-0.7112" width="0.1524" layer="21"/>
-<wire x1="2.7432" y1="2.7432" x2="-2.7432" y2="2.7432" width="0.1524" layer="21"/>
-<wire x1="-2.7432" y1="2.7432" x2="-2.7432" y2="0.7112" width="0.1524" layer="21"/>
-<wire x1="-4.1402" y1="0" x2="-4.9022" y2="0" width="0.1524" layer="51"/>
-<wire x1="-4.5212" y1="0.381" x2="-4.5212" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="-2.7432" y1="1.3716" x2="-1.3716" y2="2.7432" width="0.1524" layer="51"/>
-<wire x1="-2.7432" y1="-1.3716" x2="-1.3716" y2="-2.7432" width="0.1524" layer="51"/>
-<wire x1="-2.7432" y1="-2.7432" x2="2.7432" y2="-2.7432" width="0.1524" layer="51"/>
-<wire x1="2.7432" y1="-2.7432" x2="2.7432" y2="2.7432" width="0.1524" layer="51"/>
-<wire x1="2.7432" y1="2.7432" x2="-2.7432" y2="2.7432" width="0.1524" layer="51"/>
-<wire x1="-2.7432" y1="2.7432" x2="-2.7432" y2="-2.7432" width="0.1524" layer="51"/>
-<text x="-4.7498" y="3.1242" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
-<text x="-5.7658" y="-5.1562" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
-</package>
-<package name="CAPAE660X610N">
-<smd name="1" x="-2.413" y="0" dx="3.2512" dy="0.762" layer="1"/>
-<smd name="2" x="2.413" y="0" dx="3.2512" dy="0.762" layer="1"/>
-<wire x1="4.318" y1="-3.556" x2="-4.318" y2="-3.556" width="0.1524" layer="39"/>
-<wire x1="-4.318" y1="-3.556" x2="-4.318" y2="3.556" width="0.1524" layer="39"/>
-<wire x1="-4.318" y1="3.556" x2="4.318" y2="3.556" width="0.1524" layer="39"/>
-<wire x1="4.318" y1="3.556" x2="4.318" y2="-3.556" width="0.1524" layer="39"/>
-<wire x1="3.302" y1="0.7112" x2="3.302" y2="3.302" width="0.1524" layer="21"/>
-<wire x1="-3.302" y1="-0.7112" x2="-3.302" y2="-1.651" width="0.1524" layer="21"/>
-<wire x1="-3.302" y1="-1.651" x2="-3.302" y2="-3.302" width="0.1524" layer="21"/>
-<wire x1="-4.8006" y1="0" x2="-5.5626" y2="0" width="0.1524" layer="21"/>
-<wire x1="-5.1816" y1="0.381" x2="-5.1816" y2="-0.381" width="0.1524" layer="21"/>
-<wire x1="-3.302" y1="1.651" x2="-1.651" y2="3.302" width="0.1524" layer="21"/>
-<wire x1="-3.302" y1="-1.651" x2="-1.651" y2="-3.302" width="0.1524" layer="21"/>
-<wire x1="-3.302" y1="-3.302" x2="3.302" y2="-3.302" width="0.1524" layer="21"/>
-<wire x1="3.302" y1="-3.302" x2="3.302" y2="-0.7112" width="0.1524" layer="21"/>
-<wire x1="3.302" y1="3.302" x2="-3.302" y2="3.302" width="0.1524" layer="21"/>
-<wire x1="-3.302" y1="3.302" x2="-3.302" y2="0.7112" width="0.1524" layer="21"/>
-<wire x1="-4.8006" y1="0" x2="-5.5626" y2="0" width="0.1524" layer="51"/>
-<wire x1="-5.1816" y1="0.381" x2="-5.1816" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="-3.302" y1="1.651" x2="-1.651" y2="3.302" width="0.1524" layer="51"/>
-<wire x1="-3.302" y1="-1.651" x2="-1.651" y2="-3.302" width="0.1524" layer="51"/>
-<wire x1="-3.302" y1="-3.302" x2="3.302" y2="-3.302" width="0.1524" layer="51"/>
-<wire x1="3.302" y1="-3.302" x2="3.302" y2="3.302" width="0.1524" layer="51"/>
-<wire x1="3.302" y1="3.302" x2="-3.302" y2="3.302" width="0.1524" layer="51"/>
-<wire x1="-3.302" y1="3.302" x2="-3.302" y2="-3.302" width="0.1524" layer="51"/>
-<text x="-4.6736" y="3.5306" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
-<text x="-5.588" y="-5.6642" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
-</package>
-<package name="CAPAE660X800N">
-<smd name="1" x="-2.413" y="0" dx="3.2512" dy="0.762" layer="1"/>
-<smd name="2" x="2.413" y="0" dx="3.2512" dy="0.762" layer="1"/>
-<wire x1="4.318" y1="-3.556" x2="-4.318" y2="-3.556" width="0.1524" layer="39"/>
-<wire x1="-4.318" y1="-3.556" x2="-4.318" y2="3.556" width="0.1524" layer="39"/>
-<wire x1="-4.318" y1="3.556" x2="4.318" y2="3.556" width="0.1524" layer="39"/>
-<wire x1="4.318" y1="3.556" x2="4.318" y2="-3.556" width="0.1524" layer="39"/>
-<wire x1="3.302" y1="0.7112" x2="3.302" y2="3.302" width="0.1524" layer="21"/>
-<wire x1="-3.302" y1="-0.7112" x2="-3.302" y2="-1.651" width="0.1524" layer="21"/>
-<wire x1="-3.302" y1="-1.651" x2="-3.302" y2="-3.302" width="0.1524" layer="21"/>
-<wire x1="-4.8006" y1="0" x2="-5.5626" y2="0" width="0.1524" layer="21"/>
-<wire x1="-5.1816" y1="0.381" x2="-5.1816" y2="-0.381" width="0.1524" layer="21"/>
-<wire x1="-3.302" y1="1.651" x2="-1.651" y2="3.302" width="0.1524" layer="21"/>
-<wire x1="-3.302" y1="-1.651" x2="-1.651" y2="-3.302" width="0.1524" layer="21"/>
-<wire x1="-3.302" y1="-3.302" x2="3.302" y2="-3.302" width="0.1524" layer="21"/>
-<wire x1="3.302" y1="-3.302" x2="3.302" y2="-0.7112" width="0.1524" layer="21"/>
-<wire x1="3.302" y1="3.302" x2="-3.302" y2="3.302" width="0.1524" layer="21"/>
-<wire x1="-3.302" y1="3.302" x2="-3.302" y2="0.7112" width="0.1524" layer="21"/>
-<wire x1="-4.8006" y1="0" x2="-5.5626" y2="0" width="0.1524" layer="51"/>
-<wire x1="-5.1816" y1="0.381" x2="-5.1816" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="-3.302" y1="1.651" x2="-1.651" y2="3.302" width="0.1524" layer="51"/>
-<wire x1="-3.302" y1="-1.651" x2="-1.651" y2="-3.302" width="0.1524" layer="51"/>
-<wire x1="-3.302" y1="-3.302" x2="3.302" y2="-3.302" width="0.1524" layer="51"/>
-<wire x1="3.302" y1="-3.302" x2="3.302" y2="3.302" width="0.1524" layer="51"/>
-<wire x1="3.302" y1="3.302" x2="-3.302" y2="3.302" width="0.1524" layer="51"/>
-<wire x1="-3.302" y1="3.302" x2="-3.302" y2="-3.302" width="0.1524" layer="51"/>
-<text x="-4.6736" y="3.5306" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
-<text x="-5.588" y="-5.6642" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
-</package>
-<package name="CAPAE830X650N">
-<smd name="1" x="-2.8702" y="0" dx="4.064" dy="0.762" layer="1"/>
-<smd name="2" x="2.8702" y="0" dx="4.064" dy="0.762" layer="1"/>
-<wire x1="5.1562" y1="-4.4958" x2="-5.1562" y2="-4.4958" width="0.1524" layer="39"/>
-<wire x1="-5.1562" y1="-4.4958" x2="-5.1562" y2="4.4958" width="0.1524" layer="39"/>
-<wire x1="-5.1562" y1="4.4958" x2="5.1562" y2="4.4958" width="0.1524" layer="39"/>
-<wire x1="5.1562" y1="4.4958" x2="5.1562" y2="-4.4958" width="0.1524" layer="39"/>
-<wire x1="4.2418" y1="0.7112" x2="4.2418" y2="4.2418" width="0.1524" layer="21"/>
-<wire x1="-4.2418" y1="-0.7112" x2="-4.2418" y2="-2.1336" width="0.1524" layer="21"/>
-<wire x1="-4.2418" y1="-2.1336" x2="-4.2418" y2="-4.2418" width="0.1524" layer="21"/>
-<wire x1="-5.6388" y1="0" x2="-6.4008" y2="0" width="0.1524" layer="21"/>
-<wire x1="-6.0198" y1="0.381" x2="-6.0198" y2="-0.381" width="0.1524" layer="21"/>
-<wire x1="-4.2418" y1="2.1336" x2="-2.1336" y2="4.2418" width="0.1524" layer="21"/>
-<wire x1="-4.2418" y1="-2.1336" x2="-2.1336" y2="-4.2418" width="0.1524" layer="21"/>
-<wire x1="-4.2418" y1="-4.2418" x2="4.2418" y2="-4.2418" width="0.1524" layer="21"/>
-<wire x1="4.2418" y1="-4.2418" x2="4.2418" y2="-0.7112" width="0.1524" layer="21"/>
-<wire x1="4.2418" y1="4.2418" x2="-4.2418" y2="4.2418" width="0.1524" layer="21"/>
-<wire x1="-4.2418" y1="4.2418" x2="-4.2418" y2="0.7112" width="0.1524" layer="21"/>
-<wire x1="-5.6388" y1="0" x2="-6.4008" y2="0" width="0.1524" layer="51"/>
-<wire x1="-6.0198" y1="0.381" x2="-6.0198" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="-4.2418" y1="2.1336" x2="-2.1336" y2="4.2418" width="0.1524" layer="51"/>
-<wire x1="-4.2418" y1="-2.1336" x2="-2.1336" y2="-4.2418" width="0.1524" layer="51"/>
-<wire x1="-4.2418" y1="-4.2418" x2="4.2418" y2="-4.2418" width="0.1524" layer="51"/>
-<wire x1="4.2418" y1="-4.2418" x2="4.2418" y2="4.2418" width="0.1524" layer="51"/>
-<wire x1="4.2418" y1="4.2418" x2="-4.2418" y2="4.2418" width="0.1524" layer="51"/>
-<wire x1="-4.2418" y1="4.2418" x2="-4.2418" y2="-4.2418" width="0.1524" layer="51"/>
-<text x="-5.0038" y="4.572" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
-<text x="-5.6388" y="-6.731" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
-</package>
-<package name="CAPAE830X1050N">
-<smd name="1" x="-3.1242" y="0" dx="4.064" dy="1.0922" layer="1"/>
-<smd name="2" x="3.1242" y="0" dx="4.064" dy="1.0922" layer="1"/>
-<wire x1="5.4102" y1="-4.4958" x2="-5.4102" y2="-4.4958" width="0.1524" layer="39"/>
-<wire x1="-5.4102" y1="-4.4958" x2="-5.4102" y2="4.4958" width="0.1524" layer="39"/>
-<wire x1="-5.4102" y1="4.4958" x2="5.4102" y2="4.4958" width="0.1524" layer="39"/>
-<wire x1="5.4102" y1="4.4958" x2="5.4102" y2="-4.4958" width="0.1524" layer="39"/>
-<wire x1="4.2418" y1="0.889" x2="4.2418" y2="4.2418" width="0.1524" layer="21"/>
-<wire x1="-4.2418" y1="-0.889" x2="-4.2418" y2="-2.1336" width="0.1524" layer="21"/>
-<wire x1="-4.2418" y1="-2.1336" x2="-4.2418" y2="-4.2418" width="0.1524" layer="21"/>
-<wire x1="-5.8928" y1="0" x2="-6.6548" y2="0" width="0.1524" layer="21"/>
-<wire x1="-6.2738" y1="0.381" x2="-6.2738" y2="-0.381" width="0.1524" layer="21"/>
-<wire x1="-4.2418" y1="2.1336" x2="-2.1336" y2="4.2418" width="0.1524" layer="21"/>
-<wire x1="-4.2418" y1="-2.1336" x2="-2.1336" y2="-4.2418" width="0.1524" layer="21"/>
-<wire x1="-4.2418" y1="-4.2418" x2="4.2418" y2="-4.2418" width="0.1524" layer="21"/>
-<wire x1="4.2418" y1="-4.2418" x2="4.2418" y2="-0.889" width="0.1524" layer="21"/>
-<wire x1="4.2418" y1="4.2418" x2="-4.2418" y2="4.2418" width="0.1524" layer="21"/>
-<wire x1="-4.2418" y1="4.2418" x2="-4.2418" y2="0.889" width="0.1524" layer="21"/>
-<wire x1="-5.8928" y1="0" x2="-6.6548" y2="0" width="0.1524" layer="51"/>
-<wire x1="-6.2738" y1="0.381" x2="-6.2738" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="-4.2418" y1="2.1336" x2="-2.1336" y2="4.2418" width="0.1524" layer="51"/>
-<wire x1="-4.2418" y1="-2.1336" x2="-2.1336" y2="-4.2418" width="0.1524" layer="51"/>
-<wire x1="-4.2418" y1="-4.2418" x2="4.2418" y2="-4.2418" width="0.1524" layer="51"/>
-<wire x1="4.2418" y1="-4.2418" x2="4.2418" y2="4.2418" width="0.1524" layer="51"/>
-<wire x1="4.2418" y1="4.2418" x2="-4.2418" y2="4.2418" width="0.1524" layer="51"/>
-<wire x1="-4.2418" y1="4.2418" x2="-4.2418" y2="-4.2418" width="0.1524" layer="51"/>
-<text x="-4.953" y="4.5466" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
-<text x="-5.5372" y="-6.6294" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
-</package>
-<package name="CAPAE1030X1050N">
-<smd name="1" x="-4.064" y="0" dx="4.1656" dy="1.0922" layer="1"/>
-<smd name="2" x="4.064" y="0" dx="4.1656" dy="1.0922" layer="1"/>
-<wire x1="6.4008" y1="-5.5118" x2="-6.4008" y2="-5.5118" width="0.1524" layer="39"/>
-<wire x1="-6.4008" y1="-5.5118" x2="-6.4008" y2="5.5118" width="0.1524" layer="39"/>
-<wire x1="-6.4008" y1="5.5118" x2="6.4008" y2="5.5118" width="0.1524" layer="39"/>
-<wire x1="6.4008" y1="5.5118" x2="6.4008" y2="-5.5118" width="0.1524" layer="39"/>
-<wire x1="5.2578" y1="0.889" x2="5.2578" y2="5.2578" width="0.1524" layer="21"/>
-<wire x1="-5.2578" y1="-0.889" x2="-5.2578" y2="-2.6162" width="0.1524" layer="21"/>
-<wire x1="-5.2578" y1="-2.6162" x2="-5.2578" y2="-5.2578" width="0.1524" layer="21"/>
-<wire x1="-6.8834" y1="0" x2="-7.6454" y2="0" width="0.1524" layer="21"/>
-<wire x1="-7.2644" y1="0.381" x2="-7.2644" y2="-0.381" width="0.1524" layer="21"/>
-<wire x1="-5.2578" y1="2.6162" x2="-2.6162" y2="5.2578" width="0.1524" layer="21"/>
-<wire x1="-5.2578" y1="-2.6162" x2="-2.6162" y2="-5.2578" width="0.1524" layer="21"/>
-<wire x1="-5.2578" y1="-5.2578" x2="5.2578" y2="-5.2578" width="0.1524" layer="21"/>
-<wire x1="5.2578" y1="-5.2578" x2="5.2578" y2="-0.889" width="0.1524" layer="21"/>
-<wire x1="5.2578" y1="5.2578" x2="-5.2578" y2="5.2578" width="0.1524" layer="21"/>
-<wire x1="-5.2578" y1="5.2578" x2="-5.2578" y2="0.889" width="0.1524" layer="21"/>
-<wire x1="-6.8834" y1="0" x2="-7.6454" y2="0" width="0.1524" layer="51"/>
-<wire x1="-7.2644" y1="0.381" x2="-7.2644" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="-5.2578" y1="2.6162" x2="-2.6162" y2="5.2578" width="0.1524" layer="51"/>
-<wire x1="-5.2578" y1="-2.6162" x2="-2.6162" y2="-5.2578" width="0.1524" layer="51"/>
-<wire x1="-5.2578" y1="-5.2578" x2="5.2578" y2="-5.2578" width="0.1524" layer="51"/>
-<wire x1="5.2578" y1="-5.2578" x2="5.2578" y2="5.2578" width="0.1524" layer="51"/>
-<wire x1="5.2578" y1="5.2578" x2="-5.2578" y2="5.2578" width="0.1524" layer="51"/>
-<wire x1="-5.2578" y1="5.2578" x2="-5.2578" y2="-5.2578" width="0.1524" layer="51"/>
-<text x="-4.9276" y="5.5626" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
-<text x="-5.461" y="-7.5692" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
-</package>
-<package name="CAPAE1350X1400N">
-<smd name="1" x="-4.9784" y="0" dx="5.3594" dy="1.1938" layer="1"/>
-<smd name="2" x="4.9784" y="0" dx="5.3594" dy="1.1938" layer="1"/>
-<wire x1="7.8994" y1="-7.112" x2="-7.8994" y2="-7.112" width="0.1524" layer="39"/>
-<wire x1="-7.8994" y1="-7.112" x2="-7.8994" y2="7.112" width="0.1524" layer="39"/>
-<wire x1="-7.8994" y1="7.112" x2="7.8994" y2="7.112" width="0.1524" layer="39"/>
-<wire x1="7.8994" y1="7.112" x2="7.8994" y2="-7.112" width="0.1524" layer="39"/>
-<wire x1="6.858" y1="0.9398" x2="6.858" y2="6.858" width="0.1524" layer="21"/>
-<wire x1="-6.858" y1="-0.9398" x2="-6.858" y2="-3.429" width="0.1524" layer="21"/>
-<wire x1="-6.858" y1="-3.429" x2="-6.858" y2="-6.858" width="0.1524" layer="21"/>
-<wire x1="-8.382" y1="0" x2="-9.144" y2="0" width="0.1524" layer="21"/>
-<wire x1="-8.763" y1="0.381" x2="-8.763" y2="-0.381" width="0.1524" layer="21"/>
-<wire x1="-6.858" y1="3.429" x2="-3.429" y2="6.858" width="0.1524" layer="21"/>
-<wire x1="-6.858" y1="-3.429" x2="-3.429" y2="-6.858" width="0.1524" layer="21"/>
-<wire x1="-6.858" y1="-6.858" x2="6.858" y2="-6.858" width="0.1524" layer="21"/>
-<wire x1="6.858" y1="-6.858" x2="6.858" y2="-0.9398" width="0.1524" layer="21"/>
-<wire x1="6.858" y1="6.858" x2="-6.858" y2="6.858" width="0.1524" layer="21"/>
-<wire x1="-6.858" y1="6.858" x2="-6.858" y2="0.9398" width="0.1524" layer="21"/>
-<wire x1="-8.382" y1="0" x2="-9.144" y2="0" width="0.1524" layer="51"/>
-<wire x1="-8.763" y1="0.381" x2="-8.763" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="-6.858" y1="3.429" x2="-3.429" y2="6.858" width="0.1524" layer="51"/>
-<wire x1="-6.858" y1="-3.429" x2="-3.429" y2="-6.858" width="0.1524" layer="51"/>
-<wire x1="-6.858" y1="-6.858" x2="6.858" y2="-6.858" width="0.1524" layer="51"/>
-<wire x1="6.858" y1="-6.858" x2="6.858" y2="6.858" width="0.1524" layer="51"/>
-<wire x1="6.858" y1="6.858" x2="-6.858" y2="6.858" width="0.1524" layer="51"/>
-<wire x1="-6.858" y1="6.858" x2="-6.858" y2="-6.858" width="0.1524" layer="51"/>
-<text x="-5.0038" y="7.5184" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
-<text x="-5.588" y="-9.3472" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
-</package>
-<package name="CAPAE1700X1700N">
-<smd name="1" x="-6.5786" y="0" dx="6.1722" dy="1.4986" layer="1"/>
-<smd name="2" x="6.5786" y="0" dx="6.1722" dy="1.4986" layer="1"/>
-<wire x1="9.906" y1="-8.8646" x2="-9.906" y2="-8.8646" width="0.1524" layer="39"/>
-<wire x1="-9.906" y1="-8.8646" x2="-9.906" y2="8.8646" width="0.1524" layer="39"/>
-<wire x1="-9.906" y1="8.8646" x2="9.906" y2="8.8646" width="0.1524" layer="39"/>
-<wire x1="9.906" y1="8.8646" x2="9.906" y2="-8.8646" width="0.1524" layer="39"/>
-<wire x1="8.6106" y1="1.0922" x2="8.6106" y2="8.6106" width="0.1524" layer="21"/>
-<wire x1="-8.6106" y1="-1.0922" x2="-8.6106" y2="-4.2926" width="0.1524" layer="21"/>
-<wire x1="-8.6106" y1="-4.2926" x2="-8.6106" y2="-8.6106" width="0.1524" layer="21"/>
-<wire x1="-10.3886" y1="0" x2="-11.1506" y2="0" width="0.1524" layer="21"/>
-<wire x1="-10.7696" y1="0.381" x2="-10.7696" y2="-0.381" width="0.1524" layer="21"/>
-<wire x1="-8.6106" y1="4.2926" x2="-4.2926" y2="8.6106" width="0.1524" layer="21"/>
-<wire x1="-8.6106" y1="-4.2926" x2="-4.2926" y2="-8.6106" width="0.1524" layer="21"/>
-<wire x1="-8.6106" y1="-8.6106" x2="8.6106" y2="-8.6106" width="0.1524" layer="21"/>
-<wire x1="8.6106" y1="-8.6106" x2="8.6106" y2="-1.0922" width="0.1524" layer="21"/>
-<wire x1="8.6106" y1="8.6106" x2="-8.6106" y2="8.6106" width="0.1524" layer="21"/>
-<wire x1="-8.6106" y1="8.6106" x2="-8.6106" y2="1.0922" width="0.1524" layer="21"/>
-<wire x1="-10.3886" y1="0" x2="-11.1506" y2="0" width="0.1524" layer="51"/>
-<wire x1="-10.7696" y1="0.381" x2="-10.7696" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="-8.6106" y1="4.2926" x2="-4.2926" y2="8.6106" width="0.1524" layer="51"/>
-<wire x1="-8.6106" y1="-4.2926" x2="-4.2926" y2="-8.6106" width="0.1524" layer="51"/>
-<wire x1="-8.6106" y1="-8.6106" x2="8.6106" y2="-8.6106" width="0.1524" layer="51"/>
-<wire x1="8.6106" y1="-8.6106" x2="8.6106" y2="8.6106" width="0.1524" layer="51"/>
-<wire x1="8.6106" y1="8.6106" x2="-8.6106" y2="8.6106" width="0.1524" layer="51"/>
-<wire x1="-8.6106" y1="8.6106" x2="-8.6106" y2="-8.6106" width="0.1524" layer="51"/>
-<text x="-5.4864" y="9.0932" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
-<text x="-6.35" y="-11.1506" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
-</package>
-<package name="CAPAE1900X1700N">
-<smd name="1" x="-6.9596" y="0" dx="7.366" dy="1.4986" layer="1"/>
-<smd name="2" x="6.9596" y="0" dx="7.366" dy="1.4986" layer="1"/>
-<wire x1="10.8966" y1="-9.8552" x2="-10.8966" y2="-9.8552" width="0.1524" layer="39"/>
-<wire x1="-10.8966" y1="-9.8552" x2="-10.8966" y2="9.8552" width="0.1524" layer="39"/>
-<wire x1="-10.8966" y1="9.8552" x2="10.8966" y2="9.8552" width="0.1524" layer="39"/>
-<wire x1="10.8966" y1="9.8552" x2="10.8966" y2="-9.8552" width="0.1524" layer="39"/>
-<wire x1="9.6012" y1="1.0922" x2="9.6012" y2="9.6012" width="0.1524" layer="21"/>
-<wire x1="-9.6012" y1="-1.0922" x2="-9.6012" y2="-4.8006" width="0.1524" layer="21"/>
-<wire x1="-9.6012" y1="-4.8006" x2="-9.6012" y2="-9.6012" width="0.1524" layer="21"/>
-<wire x1="-11.3792" y1="0" x2="-12.1412" y2="0" width="0.1524" layer="21"/>
-<wire x1="-11.7602" y1="0.381" x2="-11.7602" y2="-0.381" width="0.1524" layer="21"/>
-<wire x1="-9.6012" y1="4.8006" x2="-4.8006" y2="9.6012" width="0.1524" layer="21"/>
-<wire x1="-9.6012" y1="-4.8006" x2="-4.8006" y2="-9.6012" width="0.1524" layer="21"/>
-<wire x1="-9.6012" y1="-9.6012" x2="9.6012" y2="-9.6012" width="0.1524" layer="21"/>
-<wire x1="9.6012" y1="-9.6012" x2="9.6012" y2="-1.0922" width="0.1524" layer="21"/>
-<wire x1="9.6012" y1="9.6012" x2="-9.6012" y2="9.6012" width="0.1524" layer="21"/>
-<wire x1="-9.6012" y1="9.6012" x2="-9.6012" y2="1.0922" width="0.1524" layer="21"/>
-<wire x1="-11.3792" y1="0" x2="-12.1412" y2="0" width="0.1524" layer="51"/>
-<wire x1="-11.7602" y1="0.381" x2="-11.7602" y2="-0.381" width="0.1524" layer="51"/>
-<wire x1="-9.6012" y1="4.8006" x2="-4.8006" y2="9.6012" width="0.1524" layer="51"/>
-<wire x1="-9.6012" y1="-4.8006" x2="-4.8006" y2="-9.6012" width="0.1524" layer="51"/>
-<wire x1="-9.6012" y1="-9.6012" x2="9.6012" y2="-9.6012" width="0.1524" layer="51"/>
-<wire x1="9.6012" y1="-9.6012" x2="9.6012" y2="9.6012" width="0.1524" layer="51"/>
-<wire x1="9.6012" y1="9.6012" x2="-9.6012" y2="9.6012" width="0.1524" layer="51"/>
-<wire x1="-9.6012" y1="9.6012" x2="-9.6012" y2="-9.6012" width="0.1524" layer="51"/>
-<text x="-5.2324" y="9.9568" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
-<text x="-6.3246" y="-12.3952" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
-</package>
-</packages>
-<symbols>
-<symbol name="PCAPH">
-<pin name="2" x="7.62" y="0" visible="off" length="short" direction="pas" rot="R180"/>
-<pin name="1" x="0" y="0" visible="off" length="short" direction="pas"/>
-<wire x1="2.2098" y1="0.635" x2="2.2098" y2="1.905" width="0.2032" layer="94"/>
-<wire x1="4.1148" y1="0" x2="5.08" y2="0" width="0.2032" layer="94"/>
-<wire x1="3.4798" y1="-1.905" x2="3.4798" y2="0" width="0.2032" layer="94"/>
-<wire x1="3.4798" y1="0" x2="3.4798" y2="1.905" width="0.2032" layer="94"/>
-<wire x1="1.5748" y1="1.27" x2="2.8448" y2="1.27" width="0.2032" layer="94"/>
-<wire x1="2.54" y1="0" x2="3.4798" y2="0" width="0.2032" layer="94"/>
-<wire x1="4.7498" y1="-1.905" x2="4.7498" y2="1.905" width="0.1524" layer="94" curve="-74"/>
-<text x="-0.9144" y="2.7686" size="2.0828" layer="95" ratio="10" rot="SR0">&gt;NAME</text>
-<text x="-1.9304" y="-4.445" size="2.0828" layer="96" ratio="10" rot="SR0">&gt;VALUE</text>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="EEE-" prefix="C">
-<description>Aluminum Electrolytic Capacitors,Surface Mount Type</description>
-<gates>
-<gate name="A" symbol="PCAPH" x="0" y="0"/>
-</gates>
-<devices>
-<device name="-CASE-B" package="CAPAE430X610N">
-<connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="FK0J220AR">
-<attribute name="MPN" value="EEE-FK0J220AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1244386  " constant="no"/>
-<attribute name="OC_NEWARK" value="13M4888" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK0J220R">
-<attribute name="MPN" value="EEE-FK0J220R" constant="no"/>
-<attribute name="OC_FARNELL" value="1850083  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W8316" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3 V" constant="no"/>
-</technology>
-<technology name="FK0J470UR">
-<attribute name="MPN" value="EEE-FK0J470UR" constant="no"/>
-<attribute name="OC_FARNELL" value="2254377  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3662" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK1A220AR">
-<attribute name="MPN" value="EEE-FK1A220AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1244396  " constant="no"/>
-<attribute name="OC_NEWARK" value="13M4890" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1A220R">
-<attribute name="MPN" value="EEE-FK1A220R" constant="no"/>
-<attribute name="OC_FARNELL" value="1850094  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0839" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1A330UR">
-<attribute name="MPN" value="EEE-FK1A330UR" constant="no"/>
-<attribute name="OC_FARNELL" value="2254383  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3665" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1C100AR">
-<attribute name="MPN" value="EEE-FK1C100AR" constant="no"/>
-<attribute name="OC_FARNELL" value="2254388  " constant="no"/>
-<attribute name="OC_NEWARK" value="54W2510" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C100R">
-<attribute name="MPN" value="EEE-FK1C100R" constant="no"/>
-<attribute name="OC_FARNELL" value="9695648  " constant="no"/>
-<attribute name="OC_NEWARK" value="89K7299" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C220UR">
-<attribute name="MPN" value="EEE-FK1C220UR" constant="no"/>
-<attribute name="OC_FARNELL" value="9695656  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9381" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1E100AR">
-<attribute name="MPN" value="EEE-FK1E100AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1244410  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9836" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E100R">
-<attribute name="MPN" value="EEE-FK1E100R" constant="no"/>
-<attribute name="OC_FARNELL" value="9695729  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9386" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1H4R7R">
-<attribute name="MPN" value="EEE-FK1H4R7R" constant="no"/>
-<attribute name="OC_FARNELL" value="9695893  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9396" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="4.7UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50V" constant="no"/>
-</technology>
-<technology name="FK1V100UR">
-<attribute name="MPN" value="EEE-FK1V100UR" constant="no"/>
-<attribute name="OC_FARNELL" value="9695826  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9406" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V4R7R">
-<attribute name="MPN" value="EEE-FK1V4R7R" constant="no"/>
-<attribute name="OC_FARNELL" value="9695818  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9408" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="4.7UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FKJ470UAR">
-<attribute name="MPN" value="EEE-FKJ470UAR" constant="no"/>
-<attribute name="OC_FARNELL" value="2254466  " constant="no"/>
-<attribute name="OC_NEWARK" value="49W4656" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value=" 6.3V" constant="no"/>
-</technology>
-<technology name="FKV100UAR">
-<attribute name="MPN" value="EEE-FKV100UAR" constant="no"/>
-<attribute name="OC_FARNELL" value="1244420  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9821" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FP0J220AR">
-<attribute name="MPN" value="EEE-FP0J220AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539447  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7009" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FP1A220AR">
-<attribute name="MPN" value="EEE-FP1A220AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539459  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7016" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FP1C100AR">
-<attribute name="MPN" value="EEE-FP1C100AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539468  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7022" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FP1E100AR">
-<attribute name="MPN" value="EEE-FP1E100AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539481  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7030" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FPC220UAR">
-<attribute name="MPN" value="EEE-FPC220UAR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539470  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M6991" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FPJ470UAR">
-<attribute name="MPN" value="EEE-FPJ470UAR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539448  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7001" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FPV100UAR">
-<attribute name="MPN" value="EEE-FPV100UAR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539492  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7002" constant="no"/>
-<attribute name="PACKAGE" value="CASE-B" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-CASE-C" package="CAPAE530X610N">
-<connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="FK0J101UR">
-<attribute name="MPN" value="EEE-FK0J101UR" constant="no"/>
-<attribute name="OC_FARNELL" value="1850085  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0829" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK0J470R">
-<attribute name="MPN" value="EEE-FK0J470R" constant="no"/>
-<attribute name="OC_FARNELL" value="1850084  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0836" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3 V" constant="no"/>
-</technology>
-<technology name="FK1A330AR">
-<attribute name="MPN" value="EEE-FK1A330AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1244397  " constant="no"/>
-<attribute name="OC_NEWARK" value="13M4891" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1A330R">
-<attribute name="MPN" value="EEE-FK1A330R" constant="no"/>
-<attribute name="OC_FARNELL" value="1850095  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0841" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10 V" constant="no"/>
-</technology>
-<technology name="FK1C220AR">
-<attribute name="MPN" value="EEE-FK1C220AR" constant="no"/>
-<attribute name="OC_FARNELL" value="2254392  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W8318" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C220R">
-<attribute name="MPN" value="EEE-FK1C220R" constant="no"/>
-<attribute name="OC_FARNELL" value="1850099  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0844" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value=" 16 V" constant="no"/>
-</technology>
-<technology name="FK1C470UR">
-<attribute name="MPN" value="EEE-FK1C470UR" constant="no"/>
-<attribute name="OC_FARNELL" value="9695664  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9384" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1E220AR">
-<attribute name="MPN" value="EEE-FK1E220AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1244411  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9838" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E220R">
-<attribute name="MPN" value="EEE-FK1E220R" constant="no"/>
-<attribute name="OC_FARNELL" value="9695737  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9387" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E330UR">
-<attribute name="MPN" value="EEE-FK1E330UR" constant="no"/>
-<attribute name="OC_FARNELL" value="9695745  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9389" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1H100UR">
-<attribute name="MPN" value="EEE-FK1H100UR" constant="no"/>
-<attribute name="OC_FARNELL" value="9695907  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9392" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50V" constant="no"/>
-</technology>
-<technology name="FK1J4R7R">
-<attribute name="MPN" value="EEE-FK1J4R7R" constant="no"/>
-<attribute name="OC_FARNELL" value="9695990  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9402" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="4.7UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="63V" constant="no"/>
-</technology>
-<technology name="FK1K3R3R">
-<attribute name="MPN" value="EEE-FK1K3R3R" constant="no"/>
-<attribute name="OC_FARNELL" value="2254439  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3686" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="3.3UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="80V" constant="no"/>
-</technology>
-<technology name="FK1V100AR">
-<attribute name="MPN" value="EEE-FK1V100AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1244421  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9844" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V100R">
-<attribute name="MPN" value="EEE-FK1V100R" constant="no"/>
-<attribute name="OC_FARNELL" value="1850112  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0867" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V220AR">
-<attribute name="MPN" value="EEE-FK1V220AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1244422  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9846" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V220R">
-<attribute name="MPN" value="EEE-FK1V220R" constant="no"/>
-<attribute name="OC_FARNELL" value="9695834  " constant="no"/>
-<attribute name="OC_NEWARK" value="82K6080" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FKC470UAR">
-<attribute name="MPN" value="EEE-FKC470UAR" constant="no"/>
-<attribute name="OC_FARNELL" value="2284645  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3656" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FKJ101UAR">
-<attribute name="MPN" value="EEE-FKJ101UAR" constant="no"/>
-<attribute name="OC_FARNELL" value="1244388  " constant="no"/>
-<attribute name="OC_NEWARK" value="13M4886" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FP0J470AR">
-<attribute name="MPN" value="EEE-FP0J470AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539451  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7012" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FP1A330AR">
-<attribute name="MPN" value="EEE-FP1A330AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539461  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7018" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FP1C220AR">
-<attribute name="MPN" value="EEE-FP1C220AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539471  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7024" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FP1E220AR">
-<attribute name="MPN" value="EEE-FP1E220AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539482  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7033" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FP1V220AR">
-<attribute name="MPN" value="EEE-FP1V220AR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539494  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7042" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FPC470UAR">
-<attribute name="MPN" value="EEE-FPC470UAR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539472  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M6993" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FPE330UAR">
-<attribute name="MPN" value="EEE-FPE330UAR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539483  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M6996" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FPJ101UAR">
-<attribute name="MPN" value="EEE-FPJ101UAR" constant="no"/>
-<attribute name="OC_FARNELL" value="1539452  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M6998" constant="no"/>
-<attribute name="PACKAGE" value="CASE-C" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-CASE-D" package="CAPAE660X610N">
-<connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="FK0J101AP">
-<attribute name="MPN" value="EEE-FK0J101AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244389  " constant="no"/>
-<attribute name="OC_NEWARK" value="13M4887" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK0J101P">
-<attribute name="MPN" value="EEE-FK0J101P" constant="no"/>
-<attribute name="OC_FARNELL" value="2254371  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3659" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK0J221AP">
-<attribute name="MPN" value="EEE-FK0J221AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244390  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9824" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK0J221P">
-<attribute name="MPN" value="EEE-FK0J221P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850086  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0833" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK1A151AP">
-<attribute name="MPN" value="EEE-FK1A151AP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284652  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3664" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="150UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1A151P">
-<attribute name="MPN" value="EEE-FK1A151P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850096  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0838" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="150UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1C101AP">
-<attribute name="MPN" value="EEE-FK1C101AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244406  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9831" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C101P">
-<attribute name="MPN" value="EEE-FK1C101P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695672  " constant="no"/>
-<attribute name="OC_NEWARK" value="80K9525" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C470AP">
-<attribute name="MPN" value="EEE-FK1C470AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244405  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9834" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C470P">
-<attribute name="MPN" value="EEE-FK1C470P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850100  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0848" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C680P">
-<attribute name="MPN" value="EEE-FK1C680P" constant="no"/>
-<attribute name="OC_FARNELL" value="2254404  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W8319" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="68UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1E330AP">
-<attribute name="MPN" value="EEE-FK1E330AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244412  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9840" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E330P">
-<attribute name="MPN" value="EEE-FK1E330P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850107  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0854" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25 V" constant="no"/>
-</technology>
-<technology name="FK1E470AP">
-<attribute name="MPN" value="EEE-FK1E470AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244414  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9842" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E470P">
-<attribute name="MPN" value="EEE-FK1E470P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695753  " constant="no"/>
-<attribute name="OC_NEWARK" value="87K0936" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E680AP">
-<attribute name="MPN" value="EEE-FK1E680AP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284666  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3678" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="68UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E680P">
-<attribute name="MPN" value="EEE-FK1E680P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850108  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0855" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 68UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1H100P">
-<attribute name="MPN" value="EEE-FK1H100P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850117  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0856" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50V" constant="no"/>
-</technology>
-<technology name="FK1H220P">
-<attribute name="MPN" value="EEE-FK1H220P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695915  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9394" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50V" constant="no"/>
-</technology>
-<technology name="FK1J100P">
-<attribute name="MPN" value="EEE-FK1J100P" constant="no"/>
-<attribute name="OC_FARNELL" value="9696008  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9398" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="63 V" constant="no"/>
-</technology>
-<technology name="FK1K4R7P">
-<attribute name="MPN" value="EEE-FK1K4R7P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850127  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0866" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="4.7UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="80V" constant="no"/>
-</technology>
-<technology name="FK1V330AP">
-<attribute name="MPN" value="EEE-FK1V330AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244423  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9848" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V330P">
-<attribute name="MPN" value="EEE-FK1V330P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695842  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9407" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V470AP">
-<attribute name="MPN" value="EEE-FK1V470AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244424  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9850" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V470P">
-<attribute name="MPN" value="EEE-FK1V470P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695850  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9409" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FP0J101AP">
-<attribute name="MPN" value="EEE-FP0J101AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539453  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7006" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FP0J221AP">
-<attribute name="MPN" value="EEE-FP0J221AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539454  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7010" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value=" 6.3V" constant="no"/>
-</technology>
-<technology name="FP1A151AP">
-<attribute name="MPN" value="EEE-FP1A151AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539463  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7015" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="150UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FP1A331AP">
-<attribute name="MPN" value="EEE-FP1A331AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539466  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7019" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FP1A471AP">
-<attribute name="MPN" value="EEE-FP1A471AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539467  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7020" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FP1C101AP">
-<attribute name="MPN" value="EEE-FP1C101AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539476  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7023" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FP1C470AP">
-<attribute name="MPN" value="EEE-FP1C470AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539473  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7026" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FP1E330AP">
-<attribute name="MPN" value="EEE-FP1E330AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539484  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7035" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FP1E470AP">
-<attribute name="MPN" value="EEE-FP1E470AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539485  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7037" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FP1E680AP">
-<attribute name="MPN" value="EEE-FP1E680AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539487  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7039" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="68UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FP1V330AP">
-<attribute name="MPN" value="EEE-FP1V330AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539495  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7044" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FP1V470AP">
-<attribute name="MPN" value="EEE-FP1V470AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539499  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7046" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-CASE-D8" package="CAPAE660X800N">
-<connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="FK0J331XP">
-<attribute name="MPN" value="EEE-FK0J331XP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850087 " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0835 " constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3 V" constant="no"/>
-</technology>
-<technology name="FK1A221XP">
-<attribute name="MPN" value="EEE-FK1A221XP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850097  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0840" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10 V" constant="no"/>
-</technology>
-<technology name="FK1C151XP">
-<attribute name="MPN" value="EEE-FK1C151XP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850102  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0843" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="150UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C221XP">
-<attribute name="MPN" value="EEE-FK1C221XP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850103  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0845" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1E101XP">
-<attribute name="MPN" value="EEE-FK1E101XP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850109  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0852" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1H330XP">
-<attribute name="MPN" value="EEE-FK1H330XP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850119  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0861" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value=" 50 V" constant="no"/>
-</technology>
-<technology name="FK1H470XP">
-<attribute name="MPN" value="EEE-FK1H470XP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850121  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0862" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50V" constant="no"/>
-</technology>
-<technology name="FK1J220XP">
-<attribute name="MPN" value="EEE-FK1J220XP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850125  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0863" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="63 V" constant="no"/>
-</technology>
-<technology name="FK1K100XP">
-<attribute name="MPN" value="EEE-FK1K100XP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850128  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0865" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="80 V" constant="no"/>
-</technology>
-<technology name="FK1V101XP">
-<attribute name="MPN" value="EEE-FK1V101XP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850114  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0869" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V680XP">
-<attribute name="MPN" value="EEE-FK1V680XP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850113  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0873" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="68UF" constant="no"/>
-<attribute name="VOLTAGERATING" value=" 35V" constant="no"/>
-</technology>
-<technology name="FKA221XAP">
-<attribute name="MPN" value="EEE-FKA221XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="2254460  " constant="no"/>
-<attribute name="OC_NEWARK" value="49W4648" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FKC151XAP">
-<attribute name="MPN" value="EEE-FKC151XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284644  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3654" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="150UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FKC221XAP">
-<attribute name="MPN" value="EEE-FKC221XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="2254461  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3655" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FKE101XAP">
-<attribute name="MPN" value="EEE-FKE101XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244415  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9820" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FKJ331XAP">
-<attribute name="MPN" value="EEE-FKJ331XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="2254465  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3657" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FKV680XAP">
-<attribute name="MPN" value="EEE-FKV680XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284646  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3658" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="68UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FPA221XAP">
-<attribute name="MPN" value="EEE-FPA221XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539464  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M6987" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FPC101XAP">
-<attribute name="MPN" value="EEE-FPC101XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539477  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M6989" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FPC151XAP">
-<attribute name="MPN" value="EEE-FPC151XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539478  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M6990" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="150UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FPC221XAP">
-<attribute name="MPN" value="EEE-FPC221XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539479  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M6992" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FPE101XAP">
-<attribute name="MPN" value="EEE-FPE101XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539488  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M6995" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FPJ331XAP">
-<attribute name="MPN" value="EEE-FPJ331XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539455  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7000" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FPV101XAP">
-<attribute name="MPN" value="EEE-FPV101XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539501  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7003" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FPV680XAP">
-<attribute name="MPN" value="EEE-FPV680XAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539500  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7005" constant="no"/>
-<attribute name="PACKAGE" value="CASE-D8" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="68UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-CASE-E" package="CAPAE830X650N">
-<connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="FK0J331AP">
-<attribute name="MPN" value="EEE-FK0J331AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244391  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9825" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK0J331P">
-<attribute name="MPN" value="EEE-FK0J331P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850089  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W8317" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3 V" constant="no"/>
-</technology>
-<technology name="FK1A221AP">
-<attribute name="MPN" value="EEE-FK1A221AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244398  " constant="no"/>
-<attribute name="OC_NEWARK" value="54W2507" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1A221P">
-<attribute name="MPN" value="EEE-FK1A221P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695605  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9379" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1C221AP">
-<attribute name="MPN" value="EEE-FK1C221AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244407  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9832" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C221P">
-<attribute name="MPN" value="EEE-FK1C221P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695680  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9382" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1E101AP">
-<attribute name="MPN" value="EEE-FK1E101AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244416  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9837" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E101P">
-<attribute name="MPN" value="EEE-FK1E101P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695770  " constant="no"/>
-<attribute name="OC_NEWARK" value="73K0818" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1H330P">
-<attribute name="MPN" value="EEE-FK1H330P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695923  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9395" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50V" constant="no"/>
-</technology>
-<technology name="FK1H470P">
-<attribute name="MPN" value="EEE-FK1H470P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695931  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9397" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50V" constant="no"/>
-</technology>
-<technology name="FK1J220P">
-<attribute name="MPN" value="EEE-FK1J220P" constant="no"/>
-<attribute name="OC_FARNELL" value="9696016  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9400" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="63V" constant="no"/>
-</technology>
-<technology name="FK1K100P">
-<attribute name="MPN" value="EEE-FK1K100P" constant="no"/>
-<attribute name="OC_FARNELL" value="9696083  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9404" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="10UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="80 V" constant="no"/>
-</technology>
-<technology name="FP0J331AP">
-<attribute name="MPN" value="EEE-FP0J331AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539456  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7011" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value=" 6.3V" constant="no"/>
-</technology>
-<technology name="FP1A221AP">
-<attribute name="MPN" value="EEE-FP1A221AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539465  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7017" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FP1C221AP">
-<attribute name="MPN" value="EEE-FP1C221AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539480  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7025" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FP1E101AP">
-<attribute name="MPN" value="EEE-FP1E101AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539489  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7031" constant="no"/>
-<attribute name="PACKAGE" value="CASE-E" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-CASE-F" package="CAPAE830X1050N">
-<connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="FK0J102AP">
-<attribute name="MPN" value="EEE-FK0J102AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244393  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9822" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1000UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK0J102GP">
-<attribute name="MPN" value="EEE-FK0J102GP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284647  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3660" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1000UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK0J102P">
-<attribute name="MPN" value="EEE-FK0J102P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850092  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0830" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1000UF" constant="no"/>
-<attribute name="VOLTAGERATING" value=" 6.3V" constant="no"/>
-</technology>
-<technology name="FK0J471AP">
-<attribute name="MPN" value="EEE-FK0J471AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244392  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9826" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK0J471P">
-<attribute name="MPN" value="EEE-FK0J471P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850091  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0837" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK1A331AP">
-<attribute name="MPN" value="EEE-FK1A331AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244399  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9829" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1A331GP">
-<attribute name="MPN" value="EEE-FK1A331GP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284653  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3666" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1A331P">
-<attribute name="MPN" value="EEE-FK1A331P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695613  " constant="no"/>
-<attribute name="OC_NEWARK" value="84K0337" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1A471AP">
-<attribute name="MPN" value="EEE-FK1A471AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244400  " constant="no"/>
-<attribute name="OC_NEWARK" value="unknown" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1A471GP">
-<attribute name="MPN" value="EEE-FK1A471GP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284654  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3667" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1A471P">
-<attribute name="MPN" value="EEE-FK1A471P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695621  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9380" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1A681P">
-<attribute name="MPN" value="EEE-FK1A681P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850098  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0842" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="680UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1C331AP">
-<attribute name="MPN" value="EEE-FK1C331AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244408  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9833" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C331GP">
-<attribute name="MPN" value="EEE-FK1C331GP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850104  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0846" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value=" 16 V" constant="no"/>
-</technology>
-<technology name="FK1C331P">
-<attribute name="MPN" value="EEE-FK1C331P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695699  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9383" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C471AP">
-<attribute name="MPN" value="EEE-FK1C471AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244409  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9835" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C471GP">
-<attribute name="MPN" value="EEE-FK1C471GP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284656  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3669" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C471P">
-<attribute name="MPN" value="EEE-FK1C471P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695710  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9385" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1E151AP">
-<attribute name="MPN" value="EEE-FK1E151AP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284659  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3672" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="150UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E151P">
-<attribute name="MPN" value="EEE-FK1E151P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850111  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0853" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="150UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E221AP">
-<attribute name="MPN" value="EEE-FK1E221AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244417  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9839" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E221GP">
-<attribute name="MPN" value="EEE-FK1E221GP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284660  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3673" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E221P">
-<attribute name="MPN" value="EEE-FK1E221P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695788  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9388" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value=" 25V" constant="no"/>
-</technology>
-<technology name="FK1E331AP">
-<attribute name="MPN" value="EEE-FK1E331AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244418  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9841" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E331GP">
-<attribute name="MPN" value="EEE-FK1E331GP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284663  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3675" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E331P">
-<attribute name="MPN" value="EEE-FK1E331P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695796  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9390" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1H101GP">
-<attribute name="MPN" value="EEE-FK1H101GP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850122  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0857" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50 V" constant="no"/>
-</technology>
-<technology name="FK1H101P">
-<attribute name="MPN" value="EEE-FK1H101P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695958  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9393" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50V" constant="no"/>
-</technology>
-<technology name="FK1J330P">
-<attribute name="MPN" value="EEE-FK1J330P" constant="no"/>
-<attribute name="OC_FARNELL" value="9696024  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9401" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="63 V" constant="no"/>
-</technology>
-<technology name="FK1J470P">
-<attribute name="MPN" value="EEE-FK1J470P" constant="no"/>
-<attribute name="OC_FARNELL" value="9696032  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9403" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="63 V" constant="no"/>
-</technology>
-<technology name="FK1J680UP">
-<attribute name="MPN" value="EEE-FK1J680UP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850126  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0864" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="68UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="63V" constant="no"/>
-</technology>
-<technology name="FK1K220P">
-<attribute name="MPN" value="EEE-FK1K220P" constant="no"/>
-<attribute name="OC_FARNELL" value="9696091  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9405" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="80V" constant="no"/>
-</technology>
-<technology name="FK1V101AP">
-<attribute name="MPN" value="EEE-FK1V101AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244426  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9845" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V101GP">
-<attribute name="MPN" value="EEE-FK1V101GP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850110  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0868" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35 V" constant="no"/>
-</technology>
-<technology name="FK1V101P">
-<attribute name="MPN" value="EEE-FK1V101P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695869  " constant="no"/>
-<attribute name="OC_NEWARK" value="82K7638" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V151P">
-<attribute name="MPN" value="EEE-FK1V151P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850115  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0870" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="150UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35 V" constant="no"/>
-</technology>
-<technology name="FK1V221AP">
-<attribute name="MPN" value="EEE-FK1V221AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244427  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9847" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V221GP">
-<attribute name="MPN" value="EEE-FK1V221GP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284677  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3689" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V221P">
-<attribute name="MPN" value="EEE-FK1V221P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695877  " constant="no"/>
-<attribute name="OC_NEWARK" value="69K5838" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK2A220P">
-<attribute name="MPN" value="EEE-FK2A220P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850129  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0875" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="22UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="100V" constant="no"/>
-</technology>
-<technology name="FP0J102AP">
-<attribute name="MPN" value="EEE-FP0J102AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539502  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7007" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1000UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FP0J471AP">
-<attribute name="MPN" value="EEE-FP0J471AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539457  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7013" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FP1A681AP">
-<attribute name="MPN" value="EEE-FP1A681AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539506  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7021" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="680UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FP1C331AP">
-<attribute name="MPN" value="EEE-FP1C331AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1751938  " constant="no"/>
-<attribute name="OC_NEWARK" value="32R8907" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FP1C471AP">
-<attribute name="MPN" value="EEE-FP1C471AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539508  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7027" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FP1E151AP">
-<attribute name="MPN" value="EEE-FP1E151AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539490  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7032" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="150UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FP1E221AP">
-<attribute name="MPN" value="EEE-FP1E221AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539491  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7034" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FP1E331AP">
-<attribute name="MPN" value="EEE-FP1E331AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539510  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7036" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FP1H101AP">
-<attribute name="MPN" value="EEE-FP1H101AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1714769  " constant="no"/>
-<attribute name="OC_NEWARK" value="15R0898" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50V" constant="no"/>
-</technology>
-<technology name="FP1V101AP">
-<attribute name="MPN" value="EEE-FP1V101AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539512  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7040" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FP1V151AP">
-<attribute name="MPN" value="EEE-FP1V151AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539513  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7041" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="150UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FP1V221AP">
-<attribute name="MPN" value="EEE-FP1V221AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539514  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7043" constant="no"/>
-<attribute name="PACKAGE" value="CASE-F" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-CASE-G" package="CAPAE1030X1050N">
-<connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="FK0J152AP">
-<attribute name="MPN" value="EEE-FK0J152AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244394  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9823" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1500UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK0J152P">
-<attribute name="MPN" value="EEE-FK0J152P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850093  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0831" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1500UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3 V" constant="no"/>
-</technology>
-<technology name="FK1A102AP">
-<attribute name="MPN" value="EEE-FK1A102AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244402  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9827" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1000UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1A102GP">
-<attribute name="MPN" value="EEE-FK1A102GP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284651  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3663" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1000UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FK1A102P">
-<attribute name="MPN" value="EEE-FK1A102P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695630  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9378" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1000UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10 V" constant="no"/>
-</technology>
-<technology name="FK1C681AP">
-<attribute name="MPN" value="EEE-FK1C681AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850132  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0850" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 680UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C681GP">
-<attribute name="MPN" value="EEE-FK1C681GP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284657  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3670" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="680UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1C681P">
-<attribute name="MPN" value="EEE-FK1C681P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850105  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0851" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="680UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1E471AP">
-<attribute name="MPN" value="EEE-FK1E471AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244419  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9843" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E471GP">
-<attribute name="MPN" value="EEE-FK1E471GP" constant="no"/>
-<attribute name="OC_FARNELL" value="2284665  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3677" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1E471P">
-<attribute name="MPN" value="EEE-FK1E471P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695800  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9391" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1H151P">
-<attribute name="MPN" value="EEE-FK1H151P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850123  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0859" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="150UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50 V" constant="no"/>
-</technology>
-<technology name="FK1H221GP">
-<attribute name="MPN" value="EEE-FK1H221GP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850124  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0860" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50 V" constant="no"/>
-</technology>
-<technology name="FK1H221P">
-<attribute name="MPN" value="EEE-FK1H221P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695966  " constant="no"/>
-<attribute name="OC_NEWARK" value="83K0621" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50V" constant="no"/>
-</technology>
-<technology name="FK1J101P">
-<attribute name="MPN" value="EEE-FK1J101P" constant="no"/>
-<attribute name="OC_FARNELL" value="9696040  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K9399" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="63V" constant="no"/>
-</technology>
-<technology name="FK1K470P">
-<attribute name="MPN" value="EEE-FK1K470P" constant="no"/>
-<attribute name="OC_FARNELL" value="9696105  " constant="no"/>
-<attribute name="OC_NEWARK" value="96K4804" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="80 V" constant="no"/>
-</technology>
-<technology name="FK1V331AP">
-<attribute name="MPN" value="EEE-FK1V331AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1244428  " constant="no"/>
-<attribute name="OC_NEWARK" value="12M9849" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V331GP">
-<attribute name="MPN" value="EEE-FK1V331GP" constant="no"/>
-<attribute name="OC_FARNELL" value="1850116  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0871" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35 V" constant="no"/>
-</technology>
-<technology name="FK1V331P">
-<attribute name="MPN" value="EEE-FK1V331P" constant="no"/>
-<attribute name="OC_FARNELL" value="9695885  " constant="no"/>
-<attribute name="OC_NEWARK" value="80K7175" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK2A330P">
-<attribute name="MPN" value="EEE-FK2A330P" constant="no"/>
-<attribute name="OC_FARNELL" value="1850130  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0876" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="33UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="100V" constant="no"/>
-</technology>
-<technology name="FP0J152AP">
-<attribute name="MPN" value="EEE-FP0J152AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539505  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7008" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1500UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FP1A102AP">
-<attribute name="MPN" value="EEE-FP1A102AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539507  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7014" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1000UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FP1C681AP">
-<attribute name="MPN" value="EEE-FP1C681AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539509  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7029" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="680UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FP1E471AP">
-<attribute name="MPN" value="EEE-FP1E471AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539511  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7038" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FP1H221AP">
-<attribute name="MPN" value="EEE-FP1H221AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1714770  " constant="no"/>
-<attribute name="OC_NEWARK" value="15R0899" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50V" constant="no"/>
-</technology>
-<technology name="FP1V331AP">
-<attribute name="MPN" value="EEE-FP1V331AP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539515  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7045" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FPA122UAP">
-<attribute name="MPN" value="EEE-FPA122UAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539518  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M6986" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1200UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="10V" constant="no"/>
-</technology>
-<technology name="FPC821UAP">
-<attribute name="MPN" value="EEE-FPC821UAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539519  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M6994" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="820UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FPE561UAP">
-<attribute name="MPN" value="EEE-FPE561UAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539520  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M6997" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="560UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FPJ182UAP">
-<attribute name="MPN" value="EEE-FPJ182UAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539517  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M6999" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1800UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FPV391UAP">
-<attribute name="MPN" value="EEE-FPV391UAP" constant="no"/>
-<attribute name="OC_FARNELL" value="1539521  " constant="no"/>
-<attribute name="OC_NEWARK" value="94M7004" constant="no"/>
-<attribute name="PACKAGE" value="CASE-G" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="390UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-CASE-H13" package="CAPAE1350X1400N">
-<connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="FK0J332AQ">
-<attribute name="MPN" value="EEE-FK0J332AQ" constant="no"/>
-<attribute name="OC_FARNELL" value="2284648  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3661" constant="no"/>
-<attribute name="PACKAGE" value="CASE-H13" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="3300UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="6.3V" constant="no"/>
-</technology>
-<technology name="FK1C152AQ">
-<attribute name="MPN" value="EEE-FK1C152AQ" constant="no"/>
-<attribute name="OC_FARNELL" value="2284655  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3668" constant="no"/>
-<attribute name="PACKAGE" value="CASE-H13" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1500UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1E102AQ">
-<attribute name="MPN" value="EEE-FK1E102AQ" constant="no"/>
-<attribute name="OC_FARNELL" value="2284658  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3671" constant="no"/>
-<attribute name="PACKAGE" value="CASE-H13" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1000UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK1H331AQ">
-<attribute name="MPN" value="EEE-FK1H331AQ" constant="no"/>
-<attribute name="OC_FARNELL" value="2284667  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3679" constant="no"/>
-<attribute name="PACKAGE" value="CASE-H13" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50V" constant="no"/>
-</technology>
-<technology name="FK1J221AQ">
-<attribute name="MPN" value="EEE-FK1J221AQ" constant="no"/>
-<attribute name="OC_FARNELL" value="2284669  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3681" constant="no"/>
-<attribute name="PACKAGE" value="CASE-H13" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="63V" constant="no"/>
-</technology>
-<technology name="FK1K101AQ">
-<attribute name="MPN" value="EEE-FK1K101AQ" constant="no"/>
-<attribute name="OC_FARNELL" value="2284672  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3684" constant="no"/>
-<attribute name="PACKAGE" value="CASE-H13" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="80V" constant="no"/>
-</technology>
-<technology name="FK1K151AQ">
-<attribute name="MPN" value="EEE-FK1K151AQ" constant="no"/>
-<attribute name="OC_FARNELL" value="2284673  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3685" constant="no"/>
-<attribute name="PACKAGE" value="CASE-H13" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="150UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="80V" constant="no"/>
-</technology>
-<technology name="FK1V471AQ">
-<attribute name="MPN" value="EEE-FK1V471AQ" constant="no"/>
-<attribute name="OC_FARNELL" value="1850134  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0872" constant="no"/>
-<attribute name="PACKAGE" value="CASE-H13" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK1V681AQ">
-<attribute name="MPN" value="EEE-FK1V681AQ" constant="no"/>
-<attribute name="OC_FARNELL" value="1850135  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0874" constant="no"/>
-<attribute name="PACKAGE" value="CASE-H13" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="680UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK2A470AQ">
-<attribute name="MPN" value="EEE-FK2A470AQ" constant="no"/>
-<attribute name="OC_FARNELL" value="2284681  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3693" constant="no"/>
-<attribute name="PACKAGE" value="CASE-H13" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="47UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="100V" constant="no"/>
-</technology>
-<technology name="FK2A680AQ">
-<attribute name="MPN" value="EEE-FK2A680AQ" constant="no"/>
-<attribute name="OC_FARNELL" value="2284682  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3694" constant="no"/>
-<attribute name="PACKAGE" value="CASE-H13" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="68UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="100V" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-CASE-J16" package="CAPAE1700X1700N">
-<connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="FK1C332AM">
-<attribute name="MPN" value="EEE-FK1C332AM" constant="no"/>
-<attribute name="OC_FARNELL" value="1850133  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0847" constant="no"/>
-<attribute name="PACKAGE" value="CASE-J16" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value=" 3300UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="16V" constant="no"/>
-</technology>
-<technology name="FK1E222AM">
-<attribute name="MPN" value="EEE-FK1E222AM" constant="no"/>
-<attribute name="OC_FARNELL" value="2284661  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3674" constant="no"/>
-<attribute name="PACKAGE" value="CASE-J16" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="2200UF" constant="no"/>
-<attribute name="VOLTAGERATING" value=" 25V" constant="no"/>
-</technology>
-<technology name="FK1H102AM">
-<attribute name="MPN" value="EEE-FK1H102AM" constant="no"/>
-<attribute name="OC_FARNELL" value="1850136  " constant="no"/>
-<attribute name="OC_NEWARK" value="23T0858" constant="no"/>
-<attribute name="PACKAGE" value="CASE-J16" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1000UF" constant="no"/>
-<attribute name="VOLTAGERATING" value=" 50V" constant="no"/>
-</technology>
-<technology name="FK1H471AM">
-<attribute name="MPN" value="EEE-FK1H471AM" constant="no"/>
-<attribute name="OC_FARNELL" value="2284668  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3680" constant="no"/>
-<attribute name="PACKAGE" value="CASE-J16" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="50V" constant="no"/>
-</technology>
-<technology name="FK1J471AM">
-<attribute name="MPN" value="EEE-FK1J471AM" constant="no"/>
-<attribute name="OC_FARNELL" value="2284670  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3682" constant="no"/>
-<attribute name="PACKAGE" value="CASE-J16" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="470UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="63V" constant="no"/>
-</technology>
-<technology name="FK1V152AM">
-<attribute name="MPN" value="EEE-FK1V152AM" constant="no"/>
-<attribute name="OC_FARNELL" value="2284676  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3688" constant="no"/>
-<attribute name="PACKAGE" value="CASE-J16" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="1500UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="35V" constant="no"/>
-</technology>
-<technology name="FK2A101AM">
-<attribute name="MPN" value="EEE-FK2A101AM" constant="no"/>
-<attribute name="OC_FARNELL" value="2284678  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3690" constant="no"/>
-<attribute name="PACKAGE" value="CASE-J16" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="100UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="100V" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-CASE-K16" package="CAPAE1900X1700N">
-<connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="FK1E332AM">
-<attribute name="MPN" value="EEE-FK1E332AM" constant="no"/>
-<attribute name="OC_FARNELL" value="2284664  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3676" constant="no"/>
-<attribute name="PACKAGE" value="CASE-K16" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="3300UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="25V" constant="no"/>
-</technology>
-<technology name="FK2A221AM">
-<attribute name="MPN" value="EEE-FK2A221AM" constant="no"/>
-<attribute name="OC_FARNELL" value="2284679  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3691" constant="no"/>
-<attribute name="PACKAGE" value="CASE-K16" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="220UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="100V" constant="no"/>
-</technology>
-<technology name="FK2A331AM">
-<attribute name="MPN" value="EEE-FK2A331AM" constant="no"/>
-<attribute name="OC_FARNELL" value="2284680  " constant="no"/>
-<attribute name="OC_NEWARK" value="53W3692" constant="no"/>
-<attribute name="PACKAGE" value="CASE-K16" constant="no"/>
-<attribute name="SUPPLIER" value="PANASONIC" constant="no"/>
-<attribute name="TOLERANCE" value="±20 %" constant="no"/>
-<attribute name="VALUE" value="330UF" constant="no"/>
-<attribute name="VOLTAGERATING" value="100V" constant="no"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="10118193-0001LF">
 <packages>
 <package name="FCI_10118193-0001LF">
@@ -9784,6 +7059,174 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 </deviceset>
 </devicesets>
 </library>
+<library name="74HC4051D">
+<packages>
+<package name="SOIC127P600X175-16N">
+<smd name="1" x="-2.5908" y="4.445" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="2" x="-2.5908" y="3.175" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="3" x="-2.5908" y="1.905" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="4" x="-2.5908" y="0.635" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="5" x="-2.5908" y="-0.635" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="6" x="-2.5908" y="-1.905" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="7" x="-2.5908" y="-3.175" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="8" x="-2.5908" y="-4.445" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="9" x="2.5908" y="-4.445" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="10" x="2.5908" y="-3.175" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="11" x="2.5908" y="-1.905" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="12" x="2.5908" y="-0.635" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="13" x="2.5908" y="0.635" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="14" x="2.5908" y="1.905" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="15" x="2.5908" y="3.175" dx="1.7018" dy="0.5334" layer="1"/>
+<smd name="16" x="2.5908" y="4.445" dx="1.7018" dy="0.5334" layer="1"/>
+<wire x1="-2.0066" y1="4.191" x2="-2.0066" y2="4.699" width="0" layer="51"/>
+<wire x1="-2.0066" y1="4.699" x2="-3.0988" y2="4.699" width="0" layer="51"/>
+<wire x1="-3.0988" y1="4.699" x2="-3.0988" y2="4.191" width="0" layer="51"/>
+<wire x1="-3.0988" y1="4.191" x2="-2.0066" y2="4.191" width="0" layer="51"/>
+<wire x1="-2.0066" y1="2.921" x2="-2.0066" y2="3.429" width="0" layer="51"/>
+<wire x1="-2.0066" y1="3.429" x2="-3.0988" y2="3.429" width="0" layer="51"/>
+<wire x1="-3.0988" y1="3.429" x2="-3.0988" y2="2.921" width="0" layer="51"/>
+<wire x1="-3.0988" y1="2.921" x2="-2.0066" y2="2.921" width="0" layer="51"/>
+<wire x1="-2.0066" y1="1.651" x2="-2.0066" y2="2.159" width="0" layer="51"/>
+<wire x1="-2.0066" y1="2.159" x2="-3.0988" y2="2.159" width="0" layer="51"/>
+<wire x1="-3.0988" y1="2.159" x2="-3.0988" y2="1.651" width="0" layer="51"/>
+<wire x1="-3.0988" y1="1.651" x2="-2.0066" y2="1.651" width="0" layer="51"/>
+<wire x1="-2.0066" y1="0.381" x2="-2.0066" y2="0.889" width="0" layer="51"/>
+<wire x1="-2.0066" y1="0.889" x2="-3.0988" y2="0.889" width="0" layer="51"/>
+<wire x1="-3.0988" y1="0.889" x2="-3.0988" y2="0.381" width="0" layer="51"/>
+<wire x1="-3.0988" y1="0.381" x2="-2.0066" y2="0.381" width="0" layer="51"/>
+<wire x1="-2.0066" y1="-0.889" x2="-2.0066" y2="-0.381" width="0" layer="51"/>
+<wire x1="-2.0066" y1="-0.381" x2="-3.0988" y2="-0.381" width="0" layer="51"/>
+<wire x1="-3.0988" y1="-0.381" x2="-3.0988" y2="-0.889" width="0" layer="51"/>
+<wire x1="-3.0988" y1="-0.889" x2="-2.0066" y2="-0.889" width="0" layer="51"/>
+<wire x1="-2.0066" y1="-2.159" x2="-2.0066" y2="-1.651" width="0" layer="51"/>
+<wire x1="-2.0066" y1="-1.651" x2="-3.0988" y2="-1.651" width="0" layer="51"/>
+<wire x1="-3.0988" y1="-1.651" x2="-3.0988" y2="-2.159" width="0" layer="51"/>
+<wire x1="-3.0988" y1="-2.159" x2="-2.0066" y2="-2.159" width="0" layer="51"/>
+<wire x1="-2.0066" y1="-3.429" x2="-2.0066" y2="-2.921" width="0" layer="51"/>
+<wire x1="-2.0066" y1="-2.921" x2="-3.0988" y2="-2.921" width="0" layer="51"/>
+<wire x1="-3.0988" y1="-2.921" x2="-3.0988" y2="-3.429" width="0" layer="51"/>
+<wire x1="-3.0988" y1="-3.429" x2="-2.0066" y2="-3.429" width="0" layer="51"/>
+<wire x1="-2.0066" y1="-4.699" x2="-2.0066" y2="-4.191" width="0" layer="51"/>
+<wire x1="-2.0066" y1="-4.191" x2="-3.0988" y2="-4.191" width="0" layer="51"/>
+<wire x1="-3.0988" y1="-4.191" x2="-3.0988" y2="-4.699" width="0" layer="51"/>
+<wire x1="-3.0988" y1="-4.699" x2="-2.0066" y2="-4.699" width="0" layer="51"/>
+<wire x1="2.0066" y1="-4.191" x2="2.0066" y2="-4.699" width="0" layer="51"/>
+<wire x1="2.0066" y1="-4.699" x2="3.0988" y2="-4.699" width="0" layer="51"/>
+<wire x1="3.0988" y1="-4.699" x2="3.0988" y2="-4.191" width="0" layer="51"/>
+<wire x1="3.0988" y1="-4.191" x2="2.0066" y2="-4.191" width="0" layer="51"/>
+<wire x1="2.0066" y1="-2.921" x2="2.0066" y2="-3.429" width="0" layer="51"/>
+<wire x1="2.0066" y1="-3.429" x2="3.0988" y2="-3.429" width="0" layer="51"/>
+<wire x1="3.0988" y1="-3.429" x2="3.0988" y2="-2.921" width="0" layer="51"/>
+<wire x1="3.0988" y1="-2.921" x2="2.0066" y2="-2.921" width="0" layer="51"/>
+<wire x1="2.0066" y1="-1.651" x2="2.0066" y2="-2.159" width="0" layer="51"/>
+<wire x1="2.0066" y1="-2.159" x2="3.0988" y2="-2.159" width="0" layer="51"/>
+<wire x1="3.0988" y1="-2.159" x2="3.0988" y2="-1.651" width="0" layer="51"/>
+<wire x1="3.0988" y1="-1.651" x2="2.0066" y2="-1.651" width="0" layer="51"/>
+<wire x1="2.0066" y1="-0.381" x2="2.0066" y2="-0.889" width="0" layer="51"/>
+<wire x1="2.0066" y1="-0.889" x2="3.0988" y2="-0.889" width="0" layer="51"/>
+<wire x1="3.0988" y1="-0.889" x2="3.0988" y2="-0.381" width="0" layer="51"/>
+<wire x1="3.0988" y1="-0.381" x2="2.0066" y2="-0.381" width="0" layer="51"/>
+<wire x1="2.0066" y1="0.889" x2="2.0066" y2="0.381" width="0" layer="51"/>
+<wire x1="2.0066" y1="0.381" x2="3.0988" y2="0.381" width="0" layer="51"/>
+<wire x1="3.0988" y1="0.381" x2="3.0988" y2="0.889" width="0" layer="51"/>
+<wire x1="3.0988" y1="0.889" x2="2.0066" y2="0.889" width="0" layer="51"/>
+<wire x1="2.0066" y1="2.159" x2="2.0066" y2="1.651" width="0" layer="51"/>
+<wire x1="2.0066" y1="1.651" x2="3.0988" y2="1.651" width="0" layer="51"/>
+<wire x1="3.0988" y1="1.651" x2="3.0988" y2="2.159" width="0" layer="51"/>
+<wire x1="3.0988" y1="2.159" x2="2.0066" y2="2.159" width="0" layer="51"/>
+<wire x1="2.0066" y1="3.429" x2="2.0066" y2="2.921" width="0" layer="51"/>
+<wire x1="2.0066" y1="2.921" x2="3.0988" y2="2.921" width="0" layer="51"/>
+<wire x1="3.0988" y1="2.921" x2="3.0988" y2="3.429" width="0" layer="51"/>
+<wire x1="3.0988" y1="3.429" x2="2.0066" y2="3.429" width="0" layer="51"/>
+<wire x1="2.0066" y1="4.699" x2="2.0066" y2="4.191" width="0" layer="51"/>
+<wire x1="2.0066" y1="4.191" x2="3.0988" y2="4.191" width="0" layer="51"/>
+<wire x1="3.0988" y1="4.191" x2="3.0988" y2="4.699" width="0" layer="51"/>
+<wire x1="3.0988" y1="4.699" x2="2.0066" y2="4.699" width="0" layer="51"/>
+<wire x1="3.81" y1="-3.2004" x2="4.8006" y2="-3.2004" width="0.1524" layer="51"/>
+<wire x1="-2.0066" y1="-5.0038" x2="2.0066" y2="-5.0038" width="0" layer="51"/>
+<wire x1="2.0066" y1="-5.0038" x2="2.0066" y2="5.0038" width="0" layer="51"/>
+<wire x1="2.0066" y1="5.0038" x2="0.3048" y2="5.0038" width="0" layer="51"/>
+<wire x1="0.3048" y1="5.0038" x2="-0.3048" y2="5.0038" width="0" layer="51"/>
+<wire x1="-0.3048" y1="5.0038" x2="-2.0066" y2="5.0038" width="0" layer="51"/>
+<wire x1="-2.0066" y1="5.0038" x2="-2.0066" y2="-5.0038" width="0" layer="51"/>
+<wire x1="0.3048" y1="5.0038" x2="-0.3048" y2="5.0038" width="0" layer="51" curve="-180"/>
+<text x="-3.429" y="4.8514" size="1.27" layer="51" ratio="6" rot="SR0">*</text>
+<wire x1="-1.5748" y1="-5.0038" x2="1.5748" y2="-5.0038" width="0.1524" layer="21"/>
+<wire x1="1.5748" y1="5.0038" x2="0.3048" y2="5.0038" width="0.1524" layer="21"/>
+<wire x1="0.3048" y1="5.0038" x2="-0.3048" y2="5.0038" width="0.1524" layer="21"/>
+<wire x1="-0.3048" y1="5.0038" x2="-1.5748" y2="5.0038" width="0.1524" layer="21"/>
+<wire x1="0.3048" y1="5.0038" x2="-0.3048" y2="5.0038" width="0.1524" layer="21" curve="-180"/>
+<text x="-3.429" y="4.8514" size="1.27" layer="21" ratio="6" rot="SR0">*</text>
+<text x="-3.4544" y="6.985" size="2.0828" layer="25" ratio="10" rot="SR0">&gt;NAME</text>
+<text x="-3.4544" y="-8.255" size="2.0828" layer="27" ratio="10" rot="SR0">&gt;VALUE</text>
+</package>
+</packages>
+<symbols>
+<symbol name="74HC4051D">
+<pin name="VEE" x="-17.78" y="7.62" length="middle" direction="pwr"/>
+<pin name="VCC" x="-17.78" y="5.08" length="middle" direction="pwr"/>
+<pin name="~E" x="-17.78" y="0" length="middle" direction="in"/>
+<pin name="S0" x="-17.78" y="-5.08" length="middle" direction="in"/>
+<pin name="S1" x="-17.78" y="-7.62" length="middle" direction="in"/>
+<pin name="S2" x="-17.78" y="-10.16" length="middle" direction="in"/>
+<pin name="GND" x="-17.78" y="-15.24" length="middle" direction="pas"/>
+<pin name="Y0" x="17.78" y="7.62" length="middle" rot="R180"/>
+<pin name="Y1" x="17.78" y="5.08" length="middle" rot="R180"/>
+<pin name="Y2" x="17.78" y="2.54" length="middle" rot="R180"/>
+<pin name="Y3" x="17.78" y="0" length="middle" rot="R180"/>
+<pin name="Y4" x="17.78" y="-2.54" length="middle" rot="R180"/>
+<pin name="Y5" x="17.78" y="-5.08" length="middle" rot="R180"/>
+<pin name="Y6" x="17.78" y="-7.62" length="middle" rot="R180"/>
+<pin name="Y7" x="17.78" y="-10.16" length="middle" rot="R180"/>
+<pin name="Z" x="17.78" y="-15.24" length="middle" rot="R180"/>
+<wire x1="-12.7" y1="12.7" x2="-12.7" y2="-20.32" width="0.4064" layer="94"/>
+<wire x1="-12.7" y1="-20.32" x2="12.7" y2="-20.32" width="0.4064" layer="94"/>
+<wire x1="12.7" y1="-20.32" x2="12.7" y2="12.7" width="0.4064" layer="94"/>
+<wire x1="12.7" y1="12.7" x2="-12.7" y2="12.7" width="0.4064" layer="94"/>
+<text x="-5.5372" y="15.6972" size="2.0828" layer="95" ratio="10" rot="SR0">&gt;NAME</text>
+<text x="-3.2766" y="-24.8412" size="2.0828" layer="96" ratio="10" rot="SR0">&gt;VALUE</text>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="74HC4051D" prefix="U">
+<description>8-channel analog multiplexer/demultiplexer</description>
+<gates>
+<gate name="A" symbol="74HC4051D" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="SOIC127P600X175-16N">
+<connects>
+<connect gate="A" pin="GND" pad="8"/>
+<connect gate="A" pin="S0" pad="11"/>
+<connect gate="A" pin="S1" pad="10"/>
+<connect gate="A" pin="S2" pad="9"/>
+<connect gate="A" pin="VCC" pad="16"/>
+<connect gate="A" pin="VEE" pad="7"/>
+<connect gate="A" pin="Y0" pad="13"/>
+<connect gate="A" pin="Y1" pad="14"/>
+<connect gate="A" pin="Y2" pad="15"/>
+<connect gate="A" pin="Y3" pad="12"/>
+<connect gate="A" pin="Y4" pad="1"/>
+<connect gate="A" pin="Y5" pad="5"/>
+<connect gate="A" pin="Y6" pad="2"/>
+<connect gate="A" pin="Y7" pad="4"/>
+<connect gate="A" pin="Z" pad="3"/>
+<connect gate="A" pin="~E" pad="6"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="MPN" value="74HC4051D" constant="no"/>
+<attribute name="OC_FARNELL" value="1201327" constant="no"/>
+<attribute name="OC_NEWARK" value="-" constant="no"/>
+<attribute name="PACKAGE" value="SOIC-16" constant="no"/>
+<attribute name="SUPPLIER" value="NXP" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -9826,20 +7269,16 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <part name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="22pF"/>
 <part name="GND14" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="P+1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
-<part name="P+2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="GND16" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND17" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="0.1uF"/>
 <part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="10uF"/>
-<part name="C25" library="Panasonic-EEEFK_EEEFP" deviceset="EEE-" device="-CASE-F" technology="FK1C471P" value="47uF"/>
 <part name="GND18" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND20" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="J2" library="10118193-0001LF" deviceset="10118193-0001LF" device=""/>
 <part name="GND21" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="IC2" library="linear" library_urn="urn:adsk.eagle:library:262" deviceset="UA78M*" device="DCY" package3d_urn="urn:adsk.eagle:package:16418/2" technology="05"/>
-<part name="P+8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="Q2" library="On Semiconductor - BC849BLT1G" deviceset="ON_SEMICONDUCTOR_BC849BLT1G" device="ON_SEMICONDUCTOR_BC849BLT1G_0_0"/>
 <part name="Q3" library="On Semiconductor - BC849BLT1G" deviceset="ON_SEMICONDUCTOR_BC849BLT1G" device="ON_SEMICONDUCTOR_BC849BLT1G_0_0"/>
 <part name="R1" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="10KOHM" device="-0603-1/10W-1%" package3d_urn="urn:adsk.eagle:package:39650/1" value="10k"/>
@@ -9856,225 +7295,272 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <part name="R4" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="10KOHM" device="-0603-1/10W-1%" package3d_urn="urn:adsk.eagle:package:39650/1" value="220ohms"/>
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="IC1" library="74xx-little-de" library_urn="urn:adsk.eagle:library:86" deviceset="74*1G04" device="DBV" package3d_urn="urn:adsk.eagle:package:2406/1" technology="AHC"/>
+<part name="U3" library="74HC4051D" deviceset="74HC4051D" device=""/>
+<part name="P+3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
+<part name="P+4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
+<part name="P+5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
+<part name="P+6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
+<part name="P+14" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
+<part name="P+15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
+<part name="BUT_X" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="10-XX" device="" package3d_urn="urn:adsk.eagle:package:27496/1" value="0ohms"/>
+<part name="BUT_Y" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="10-XX" device="" package3d_urn="urn:adsk.eagle:package:27496/1" value="0ohms"/>
+<part name="P+16" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
+<part name="P+17" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
+<part name="GND4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
+<part name="P+18" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
+<part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1uF"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
 </plain>
 <instances>
-<instance part="MDL1" gate="G$1" x="38.1" y="-25.4" smashed="yes">
-<attribute name="NAME" x="20.32" y="-40.64" size="1.27" layer="94"/>
+<instance part="MDL1" gate="G$1" x="-27.94" y="-22.86" smashed="yes">
+<attribute name="NAME" x="-45.72" y="-38.1" size="1.27" layer="94"/>
 </instance>
-<instance part="GND1" gate="1" x="48.26" y="-38.1" smashed="yes">
-<attribute name="VALUE" x="45.72" y="-40.64" size="1.778" layer="96"/>
+<instance part="GND1" gate="1" x="-17.78" y="-35.56" smashed="yes">
+<attribute name="VALUE" x="-20.32" y="-38.1" size="1.778" layer="96"/>
 </instance>
-<instance part="C6" gate="G$1" x="10.16" y="-43.18" smashed="yes" rot="R180">
-<attribute name="NAME" x="8.636" y="-43.561" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="8.636" y="-38.481" size="1.778" layer="96" rot="R180"/>
+<instance part="C6" gate="G$1" x="-55.88" y="-40.64" smashed="yes" rot="R180">
+<attribute name="NAME" x="-57.404" y="-41.021" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-57.404" y="-35.941" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="C7" gate="G$1" x="15.24" y="-43.18" smashed="yes" rot="R180">
-<attribute name="NAME" x="13.716" y="-43.561" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="13.716" y="-38.481" size="1.778" layer="96" rot="R180"/>
+<instance part="C7" gate="G$1" x="-50.8" y="-40.64" smashed="yes" rot="R180">
+<attribute name="NAME" x="-52.324" y="-41.021" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-52.324" y="-35.941" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="GND9" gate="1" x="15.24" y="-50.8" smashed="yes">
-<attribute name="VALUE" x="12.7" y="-53.34" size="1.778" layer="96"/>
+<instance part="GND9" gate="1" x="-50.8" y="-48.26" smashed="yes">
+<attribute name="VALUE" x="-53.34" y="-50.8" size="1.778" layer="96"/>
 </instance>
-<instance part="BUT_UP" gate="1" x="-43.18" y="38.1" smashed="yes" rot="R270">
-<attribute name="NAME" x="-45.72" y="44.45" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-40.005" y="41.91" size="1.778" layer="96"/>
+<instance part="BUT_UP" gate="1" x="-27.94" y="40.64" smashed="yes" rot="R270">
+<attribute name="NAME" x="-30.48" y="46.99" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-24.765" y="44.45" size="1.778" layer="96"/>
 </instance>
-<instance part="BUT_DOWN" gate="1" x="-43.18" y="7.62" smashed="yes" rot="R270">
-<attribute name="NAME" x="-45.72" y="13.97" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-40.005" y="11.43" size="1.778" layer="96"/>
+<instance part="BUT_DOWN" gate="1" x="-27.94" y="15.24" smashed="yes" rot="R270">
+<attribute name="NAME" x="-30.48" y="21.59" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-24.765" y="19.05" size="1.778" layer="96"/>
 </instance>
-<instance part="BUT_LEFT" gate="1" x="-60.96" y="22.86" smashed="yes" rot="R270">
-<attribute name="NAME" x="-63.5" y="29.21" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-57.785" y="26.67" size="1.778" layer="96"/>
+<instance part="BUT_LEFT" gate="1" x="-43.18" y="27.94" smashed="yes" rot="R270">
+<attribute name="NAME" x="-45.72" y="34.29" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-40.005" y="31.75" size="1.778" layer="96"/>
 </instance>
-<instance part="BUT_RIGHT" gate="1" x="-25.4" y="22.86" smashed="yes" rot="R270">
-<attribute name="NAME" x="-27.94" y="29.21" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-22.225" y="26.67" size="1.778" layer="96"/>
+<instance part="BUT_RIGHT" gate="1" x="-12.7" y="27.94" smashed="yes" rot="R270">
+<attribute name="NAME" x="-15.24" y="34.29" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-9.525" y="31.75" size="1.778" layer="96"/>
 </instance>
-<instance part="P+7" gate="VCC" x="5.08" y="-20.32" smashed="yes">
-<attribute name="VALUE" x="2.54" y="-22.86" size="1.778" layer="96" rot="R90"/>
+<instance part="P+7" gate="VCC" x="-60.96" y="-17.78" smashed="yes">
+<attribute name="VALUE" x="-63.5" y="-20.32" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="SG1" gate="SG1" x="35.56" y="-50.8" smashed="yes" rot="R90">
-<attribute name="NAME" x="30.226" y="-51.562" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="30.226" y="-48.768" size="1.778" layer="96" rot="R180"/>
+<instance part="SG1" gate="SG1" x="-30.48" y="-48.26" smashed="yes" rot="R90">
+<attribute name="NAME" x="-35.814" y="-49.022" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-35.814" y="-46.228" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="GND10" gate="1" x="40.64" y="-53.34" smashed="yes">
-<attribute name="VALUE" x="38.1" y="-55.88" size="1.778" layer="96"/>
+<instance part="GND10" gate="1" x="-25.4" y="-50.8" smashed="yes">
+<attribute name="VALUE" x="-27.94" y="-53.34" size="1.778" layer="96"/>
 </instance>
-<instance part="BUT_A" gate="1" x="-5.08" y="7.62" smashed="yes" rot="R270">
-<attribute name="NAME" x="-7.62" y="13.97" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-1.905" y="11.43" size="1.778" layer="96"/>
+<instance part="BUT_A" gate="1" x="27.94" y="15.24" smashed="yes" rot="R270">
+<attribute name="NAME" x="25.4" y="21.59" size="1.778" layer="95"/>
+<attribute name="VALUE" x="31.115" y="19.05" size="1.778" layer="96"/>
 </instance>
-<instance part="BUT_B" gate="1" x="25.4" y="7.62" smashed="yes" rot="R270">
-<attribute name="NAME" x="22.86" y="13.97" size="1.778" layer="95"/>
-<attribute name="VALUE" x="28.575" y="11.43" size="1.778" layer="96"/>
+<instance part="BUT_B" gate="1" x="43.18" y="27.94" smashed="yes" rot="R270">
+<attribute name="NAME" x="40.64" y="34.29" size="1.778" layer="95"/>
+<attribute name="VALUE" x="46.355" y="31.75" size="1.778" layer="96"/>
 </instance>
-<instance part="P+9" gate="VCC" x="-63.5" y="-15.24" smashed="yes">
-<attribute name="VALUE" x="-66.04" y="-17.78" size="1.778" layer="96" rot="R90"/>
+<instance part="P+9" gate="VCC" x="20.32" y="-10.16" smashed="yes">
+<attribute name="VALUE" x="17.78" y="-12.7" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND12" gate="1" x="-50.8" y="-38.1" smashed="yes">
-<attribute name="VALUE" x="-53.34" y="-40.64" size="1.778" layer="96"/>
+<instance part="GND12" gate="1" x="33.02" y="-33.02" smashed="yes">
+<attribute name="VALUE" x="30.48" y="-35.56" size="1.778" layer="96"/>
 </instance>
-<instance part="SW1" gate="G$1" x="-2.54" y="35.56" smashed="yes" rot="R270">
-<attribute name="NAME" x="-4.445" y="43.815" size="1.778" layer="95"/>
-<attribute name="VALUE" x="0" y="41.275" size="1.778" layer="96"/>
+<instance part="SW1" gate="G$1" x="-119.38" y="25.4" smashed="yes" rot="R270">
+<attribute name="NAME" x="-121.285" y="33.655" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-116.84" y="31.115" size="1.778" layer="96"/>
 </instance>
-<instance part="P+10" gate="VCC" x="-10.16" y="40.64" smashed="yes">
-<attribute name="VALUE" x="-12.7" y="38.1" size="1.778" layer="96" rot="R90"/>
+<instance part="P+10" gate="VCC" x="-127" y="30.48" smashed="yes">
+<attribute name="VALUE" x="-129.54" y="27.94" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="BATTERY" gate="G$1" x="22.86" y="33.02" smashed="yes">
-<attribute name="NAME" x="22.86" y="37.338" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="22.86" y="28.702" size="1.778" layer="96" font="vector" align="top-center"/>
+<instance part="BATTERY" gate="G$1" x="-93.98" y="22.86" smashed="yes">
+<attribute name="NAME" x="-93.98" y="27.178" size="1.778" layer="95" font="vector" align="bottom-center"/>
+<attribute name="VALUE" x="-93.98" y="18.542" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="BATTERY1" gate="G$1" x="10.16" y="33.02" smashed="yes">
-<attribute name="NAME" x="10.16" y="37.338" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="10.16" y="28.702" size="1.778" layer="96" font="vector" align="top-center"/>
+<instance part="BATTERY1" gate="G$1" x="-106.68" y="22.86" smashed="yes">
+<attribute name="NAME" x="-106.68" y="27.178" size="1.778" layer="95" font="vector" align="bottom-center"/>
+<attribute name="VALUE" x="-106.68" y="18.542" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="GND13" gate="1" x="27.94" y="27.94" smashed="yes">
-<attribute name="VALUE" x="25.4" y="25.4" size="1.778" layer="96"/>
+<instance part="GND13" gate="1" x="-88.9" y="17.78" smashed="yes">
+<attribute name="VALUE" x="-91.44" y="15.24" size="1.778" layer="96"/>
 </instance>
-<instance part="R2" gate="G$1" x="15.24" y="-10.16" smashed="yes" rot="R90">
-<attribute name="NAME" x="13.716" y="-10.16" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="16.764" y="-10.16" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="R2" gate="G$1" x="-50.8" y="-7.62" smashed="yes" rot="R90">
+<attribute name="NAME" x="-52.324" y="-7.62" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="-49.276" y="-7.62" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="P+11" gate="VCC" x="15.24" y="0" smashed="yes">
-<attribute name="VALUE" x="12.7" y="-2.54" size="1.778" layer="96" rot="R90"/>
+<instance part="P+11" gate="VCC" x="-50.8" y="2.54" smashed="yes">
+<attribute name="VALUE" x="-53.34" y="0" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="U$2" gate="G$1" x="-30.48" y="-30.48" smashed="yes"/>
-<instance part="SG2" gate="SG1" x="63.5" y="-50.8" smashed="yes" rot="R90">
-<attribute name="NAME" x="58.166" y="-51.562" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="58.166" y="-48.768" size="1.778" layer="96" rot="R180"/>
+<instance part="U$2" gate="G$1" x="53.34" y="-25.4" smashed="yes"/>
+<instance part="SG2" gate="SG1" x="-2.54" y="-48.26" smashed="yes" rot="R90">
+<attribute name="NAME" x="-7.874" y="-49.022" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-7.874" y="-46.228" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="GND3" gate="1" x="68.58" y="-53.34" smashed="yes">
-<attribute name="VALUE" x="66.04" y="-55.88" size="1.778" layer="96"/>
+<instance part="GND3" gate="1" x="2.54" y="-50.8" smashed="yes">
+<attribute name="VALUE" x="0" y="-53.34" size="1.778" layer="96"/>
 </instance>
-<instance part="U$1" gate="G$1" x="35.56" y="-99.06" smashed="yes"/>
-<instance part="Q1" gate="G$1" x="-7.62" y="-104.14" smashed="yes" rot="R180">
-<attribute name="NAME" x="-2.54" y="-107.95" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="-2.54" y="-99.06" size="1.778" layer="96" rot="R180"/>
+<instance part="U$1" gate="G$1" x="-15.24" y="-93.98" smashed="yes"/>
+<instance part="Q1" gate="G$1" x="-58.42" y="-99.06" smashed="yes" rot="R180">
+<attribute name="NAME" x="-53.34" y="-102.87" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-53.34" y="-93.98" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="C3" gate="G$1" x="-12.7" y="-109.22" smashed="yes">
-<attribute name="NAME" x="-11.176" y="-108.839" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-11.176" y="-113.919" size="1.778" layer="96"/>
+<instance part="C3" gate="G$1" x="-63.5" y="-104.14" smashed="yes">
+<attribute name="NAME" x="-61.976" y="-103.759" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-61.976" y="-108.839" size="1.778" layer="96"/>
 </instance>
-<instance part="C1" gate="G$1" x="-2.54" y="-109.22" smashed="yes">
-<attribute name="NAME" x="-1.016" y="-108.839" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-1.016" y="-113.919" size="1.778" layer="96"/>
+<instance part="C1" gate="G$1" x="-53.34" y="-104.14" smashed="yes">
+<attribute name="NAME" x="-51.816" y="-103.759" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-51.816" y="-108.839" size="1.778" layer="96"/>
 </instance>
-<instance part="GND14" gate="1" x="-12.7" y="-119.38" smashed="yes">
-<attribute name="VALUE" x="-15.24" y="-121.92" size="1.778" layer="96"/>
+<instance part="GND14" gate="1" x="-63.5" y="-114.3" smashed="yes">
+<attribute name="VALUE" x="-66.04" y="-116.84" size="1.778" layer="96"/>
 </instance>
-<instance part="GND15" gate="1" x="-2.54" y="-119.38" smashed="yes">
-<attribute name="VALUE" x="-5.08" y="-121.92" size="1.778" layer="96"/>
+<instance part="GND15" gate="1" x="-53.34" y="-114.3" smashed="yes">
+<attribute name="VALUE" x="-55.88" y="-116.84" size="1.778" layer="96"/>
 </instance>
-<instance part="P+1" gate="VCC" x="27.94" y="-76.2" smashed="yes">
-<attribute name="VALUE" x="25.4" y="-78.74" size="1.778" layer="96" rot="R90"/>
+<instance part="GND16" gate="1" x="-113.03" y="-83.82" smashed="yes">
+<attribute name="VALUE" x="-115.57" y="-86.36" size="1.778" layer="96"/>
 </instance>
-<instance part="P+2" gate="VCC" x="-20.32" y="-96.52" smashed="yes">
-<attribute name="VALUE" x="-25.4" y="-99.06" size="1.778" layer="96" rot="R90"/>
+<instance part="GND17" gate="1" x="-53.34" y="-73.66" smashed="yes">
+<attribute name="VALUE" x="-55.88" y="-76.2" size="1.778" layer="96"/>
 </instance>
-<instance part="GND16" gate="1" x="-62.23" y="-88.9" smashed="yes">
-<attribute name="VALUE" x="-64.77" y="-91.44" size="1.778" layer="96"/>
+<instance part="C4" gate="G$1" x="-91.44" y="-99.06" smashed="yes">
+<attribute name="NAME" x="-89.916" y="-98.679" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-89.916" y="-103.759" size="1.778" layer="96"/>
 </instance>
-<instance part="GND17" gate="1" x="-2.54" y="-78.74" smashed="yes">
-<attribute name="VALUE" x="-5.08" y="-81.28" size="1.778" layer="96"/>
+<instance part="C5" gate="G$1" x="-86.36" y="-104.14" smashed="yes">
+<attribute name="NAME" x="-84.836" y="-103.759" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-84.836" y="-108.839" size="1.778" layer="96"/>
 </instance>
-<instance part="C4" gate="G$1" x="-35.56" y="-104.14" smashed="yes">
-<attribute name="NAME" x="-34.036" y="-103.759" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-34.036" y="-108.839" size="1.778" layer="96"/>
+<instance part="GND18" gate="1" x="-91.44" y="-114.3" smashed="yes">
+<attribute name="VALUE" x="-93.98" y="-116.84" size="1.778" layer="96"/>
 </instance>
-<instance part="C5" gate="G$1" x="-30.48" y="-109.22" smashed="yes">
-<attribute name="NAME" x="-28.956" y="-108.839" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-28.956" y="-113.919" size="1.778" layer="96"/>
+<instance part="GND" gate="1" x="-86.36" y="-114.3" smashed="yes">
+<attribute name="VALUE" x="-88.9" y="-116.84" size="1.778" layer="96"/>
 </instance>
-<instance part="C25" gate="A" x="-25.4" y="-101.6" smashed="yes" rot="R270">
-<attribute name="NAME" x="-22.6314" y="-100.6856" size="2.0828" layer="95" ratio="10" rot="SR270"/>
-<attribute name="VALUE" x="-22.225" y="-107.2896" size="2.0828" layer="96" ratio="10" rot="SR270"/>
+<instance part="GND20" gate="1" x="-81.28" y="-114.3" smashed="yes">
+<attribute name="VALUE" x="-83.82" y="-116.84" size="1.778" layer="96"/>
 </instance>
-<instance part="GND18" gate="1" x="-35.56" y="-119.38" smashed="yes">
-<attribute name="VALUE" x="-38.1" y="-121.92" size="1.778" layer="96"/>
+<instance part="J2" gate="G$1" x="-127" y="-83.82" smashed="yes" rot="R180">
+<attribute name="NAME" x="-121.91835" y="-94.7486" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-134.6297" y="-72.38806875" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="GND" gate="1" x="-30.48" y="-119.38" smashed="yes">
-<attribute name="VALUE" x="-33.02" y="-121.92" size="1.778" layer="96"/>
+<instance part="GND21" gate="1" x="-105.41" y="-114.3" smashed="yes">
+<attribute name="VALUE" x="-107.95" y="-116.84" size="1.778" layer="96"/>
 </instance>
-<instance part="GND20" gate="1" x="-25.4" y="-119.38" smashed="yes">
-<attribute name="VALUE" x="-27.94" y="-121.92" size="1.778" layer="96"/>
+<instance part="IC2" gate="G$1" x="-105.41" y="-93.98" smashed="yes">
+<attribute name="NAME" x="-110.49" y="-88.265" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-110.49" y="-90.805" size="1.778" layer="96"/>
 </instance>
-<instance part="J2" gate="G$1" x="-76.2" y="-88.9" smashed="yes" rot="R180">
-<attribute name="NAME" x="-71.11835" y="-99.8286" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="-83.8297" y="-77.46806875" size="1.778" layer="96" rot="R270"/>
+<instance part="Q2" gate="G$0" x="6.35" y="-69.85" smashed="yes">
+<attribute name="NAME" x="6.35" y="-72.39" size="2.54" layer="95" align="top-left"/>
 </instance>
-<instance part="GND21" gate="1" x="-54.61" y="-119.38" smashed="yes">
-<attribute name="VALUE" x="-57.15" y="-121.92" size="1.778" layer="96"/>
+<instance part="Q3" gate="G$0" x="6.35" y="-107.95" smashed="yes" rot="MR180">
+<attribute name="NAME" x="6.35" y="-105.41" size="2.54" layer="95" rot="MR180" align="top-left"/>
 </instance>
-<instance part="IC2" gate="G$1" x="-54.61" y="-99.06" smashed="yes">
-<attribute name="NAME" x="-59.69" y="-93.345" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-59.69" y="-95.885" size="1.778" layer="96"/>
+<instance part="R1" gate="G$1" x="-6.35" y="-100.33" smashed="yes" rot="R180">
+<attribute name="NAME" x="-6.35" y="-101.854" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
+<attribute name="VALUE" x="-6.35" y="-98.806" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
 </instance>
-<instance part="P+8" gate="VCC" x="-27.94" y="-86.36" smashed="yes">
-<attribute name="VALUE" x="-30.48" y="-88.9" size="1.778" layer="96" rot="R90"/>
+<instance part="R7" gate="G$1" x="-6.35" y="-77.47" smashed="yes" rot="R180">
+<attribute name="NAME" x="-6.35" y="-78.994" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
+<attribute name="VALUE" x="-6.35" y="-75.946" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
 </instance>
-<instance part="Q2" gate="G$0" x="57.15" y="-74.93" smashed="yes">
-<attribute name="NAME" x="57.15" y="-77.47" size="2.54" layer="95" align="top-left"/>
+<instance part="R8" gate="G$1" x="-63.5" y="-73.66" smashed="yes" rot="R90">
+<attribute name="NAME" x="-65.024" y="-73.66" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="-61.976" y="-73.66" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="Q3" gate="G$0" x="57.15" y="-113.03" smashed="yes" rot="MR180">
-<attribute name="NAME" x="57.15" y="-110.49" size="2.54" layer="95" rot="MR180" align="top-left"/>
+<instance part="R9" gate="G$1" x="-71.12" y="-73.66" smashed="yes" rot="R90">
+<attribute name="NAME" x="-72.644" y="-73.66" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="-69.596" y="-73.66" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="R1" gate="G$1" x="44.45" y="-105.41" smashed="yes" rot="R180">
-<attribute name="NAME" x="44.45" y="-106.934" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
-<attribute name="VALUE" x="44.45" y="-103.886" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
+<instance part="R10" gate="G$1" x="-7.62" y="-17.78" smashed="yes" rot="R90">
+<attribute name="NAME" x="-9.144" y="-17.78" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="-6.096" y="-17.78" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="R7" gate="G$1" x="44.45" y="-82.55" smashed="yes" rot="R180">
-<attribute name="NAME" x="44.45" y="-84.074" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
-<attribute name="VALUE" x="44.45" y="-81.026" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
+<instance part="P+12" gate="VCC" x="-7.62" y="-7.62" smashed="yes">
+<attribute name="VALUE" x="-10.16" y="-10.16" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R8" gate="G$1" x="-12.7" y="-78.74" smashed="yes" rot="R90">
-<attribute name="NAME" x="-14.224" y="-78.74" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="-11.176" y="-78.74" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="R11" gate="G$1" x="0" y="-20.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="-1.524" y="-20.32" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="1.524" y="-20.32" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="R9" gate="G$1" x="-20.32" y="-78.74" smashed="yes" rot="R90">
-<attribute name="NAME" x="-21.844" y="-78.74" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="-18.796" y="-78.74" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="P+13" gate="VCC" x="0" y="-10.16" smashed="yes">
+<attribute name="VALUE" x="-2.54" y="-12.7" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R10" gate="G$1" x="58.42" y="-20.32" smashed="yes" rot="R90">
-<attribute name="NAME" x="56.896" y="-20.32" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="59.944" y="-20.32" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="R12" gate="G$1" x="-5.08" y="-35.56" smashed="yes" rot="R180">
+<attribute name="NAME" x="-5.08" y="-37.084" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
+<attribute name="VALUE" x="-5.08" y="-34.036" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
 </instance>
-<instance part="P+12" gate="VCC" x="58.42" y="-10.16" smashed="yes">
-<attribute name="VALUE" x="55.88" y="-12.7" size="1.778" layer="96" rot="R90"/>
+<instance part="GND6" gate="1" x="2.54" y="-38.1" smashed="yes">
+<attribute name="VALUE" x="0" y="-40.64" size="1.778" layer="96"/>
 </instance>
-<instance part="R11" gate="G$1" x="66.04" y="-22.86" smashed="yes" rot="R90">
-<attribute name="NAME" x="64.516" y="-22.86" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="67.564" y="-22.86" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="R3" gate="G$1" x="-91.44" y="-17.78" smashed="yes" rot="R180">
+<attribute name="NAME" x="-91.44" y="-19.304" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
+<attribute name="VALUE" x="-91.44" y="-16.256" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
 </instance>
-<instance part="P+13" gate="VCC" x="66.04" y="-12.7" smashed="yes">
-<attribute name="VALUE" x="63.5" y="-15.24" size="1.778" layer="96" rot="R90"/>
+<instance part="R4" gate="G$1" x="-83.82" y="-22.86" smashed="yes" rot="R90">
+<attribute name="NAME" x="-85.344" y="-22.86" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="-82.296" y="-22.86" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="R12" gate="G$1" x="60.96" y="-38.1" smashed="yes" rot="R180">
-<attribute name="NAME" x="60.96" y="-39.624" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
-<attribute name="VALUE" x="60.96" y="-36.576" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
+<instance part="GND2" gate="1" x="-83.82" y="-33.02" smashed="yes">
+<attribute name="VALUE" x="-86.36" y="-35.56" size="1.778" layer="96"/>
 </instance>
-<instance part="GND6" gate="1" x="68.58" y="-40.64" smashed="yes">
-<attribute name="VALUE" x="66.04" y="-43.18" size="1.778" layer="96"/>
+<instance part="IC1" gate="A" x="35.56" y="-45.72" smashed="yes">
+<attribute name="NAME" x="38.1" y="-42.545" size="1.778" layer="95"/>
+<attribute name="VALUE" x="38.1" y="-50.8" size="1.778" layer="96"/>
 </instance>
-<instance part="R3" gate="G$1" x="-73.66" y="10.16" smashed="yes" rot="R180">
-<attribute name="NAME" x="-73.66" y="8.636" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
-<attribute name="VALUE" x="-73.66" y="11.684" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
+<instance part="U3" gate="A" x="-116.84" y="-33.02" smashed="yes" rot="MR180">
+<attribute name="NAME" x="-122.3772" y="-48.7172" size="2.0828" layer="95" ratio="10" rot="SMR180"/>
+<attribute name="VALUE" x="-120.1166" y="-8.1788" size="2.0828" layer="96" ratio="10" rot="SMR180"/>
 </instance>
-<instance part="R4" gate="G$1" x="-66.04" y="5.08" smashed="yes" rot="R90">
-<attribute name="NAME" x="-67.564" y="5.08" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="-64.516" y="5.08" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="P+3" gate="VCC" x="-35.56" y="27.94" smashed="yes">
+<attribute name="VALUE" x="-38.1" y="25.4" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND2" gate="1" x="-66.04" y="-5.08" smashed="yes">
-<attribute name="VALUE" x="-68.58" y="-7.62" size="1.778" layer="96"/>
+<instance part="P+4" gate="VCC" x="-20.32" y="40.64" smashed="yes">
+<attribute name="VALUE" x="-22.86" y="38.1" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="IC1" gate="A" x="-48.26" y="-50.8" smashed="yes">
-<attribute name="NAME" x="-45.72" y="-47.625" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-45.72" y="-55.88" size="1.778" layer="96"/>
+<instance part="P+5" gate="VCC" x="-5.08" y="27.94" smashed="yes">
+<attribute name="VALUE" x="-7.62" y="25.4" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="P+6" gate="VCC" x="-20.32" y="15.24" smashed="yes">
+<attribute name="VALUE" x="-22.86" y="12.7" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="P+14" gate="VCC" x="35.56" y="15.24" smashed="yes">
+<attribute name="VALUE" x="33.02" y="12.7" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="P+15" gate="VCC" x="50.8" y="27.94" smashed="yes">
+<attribute name="VALUE" x="48.26" y="25.4" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="BUT_X" gate="1" x="12.7" y="27.94" smashed="yes" rot="R270">
+<attribute name="NAME" x="10.16" y="34.29" size="1.778" layer="95"/>
+<attribute name="VALUE" x="15.875" y="31.75" size="1.778" layer="96"/>
+</instance>
+<instance part="BUT_Y" gate="1" x="27.94" y="40.64" smashed="yes" rot="R270">
+<attribute name="NAME" x="25.4" y="46.99" size="1.778" layer="95"/>
+<attribute name="VALUE" x="31.115" y="44.45" size="1.778" layer="96"/>
+</instance>
+<instance part="P+16" gate="VCC" x="20.32" y="27.94" smashed="yes">
+<attribute name="VALUE" x="17.78" y="25.4" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="P+17" gate="VCC" x="35.56" y="40.64" smashed="yes">
+<attribute name="VALUE" x="33.02" y="38.1" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="GND4" gate="1" x="-142.24" y="-45.72" smashed="yes">
+<attribute name="VALUE" x="-144.78" y="-48.26" size="1.778" layer="96"/>
+</instance>
+<instance part="P+18" gate="VCC" x="-137.16" y="-35.56" smashed="yes">
+<attribute name="VALUE" x="-142.24" y="-38.1" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="C2" gate="G$1" x="-81.28" y="-99.06" smashed="yes">
+<attribute name="NAME" x="-79.756" y="-98.679" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-79.756" y="-103.759" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -10083,584 +7569,687 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <net name="DC" class="0">
 <segment>
 <pinref part="MDL1" gate="G$1" pin="GPIO5"/>
-<wire x1="45.72" y1="-22.86" x2="48.26" y2="-22.86" width="0.1524" layer="91"/>
-<label x="48.26" y="-22.86" size="0.762" layer="95" xref="yes"/>
+<wire x1="-20.32" y1="-20.32" x2="-17.78" y2="-20.32" width="0.1524" layer="91"/>
+<label x="-17.78" y="-20.32" size="0.762" layer="95" xref="yes"/>
 </segment>
 <segment>
-<wire x1="-48.26" y1="-27.94" x2="-50.8" y2="-27.94" width="0.1524" layer="91"/>
-<label x="-50.8" y="-27.94" size="0.762" layer="95" rot="R180" xref="yes"/>
+<wire x1="35.56" y1="-22.86" x2="33.02" y2="-22.86" width="0.1524" layer="91"/>
+<label x="33.02" y="-22.86" size="0.762" layer="95" rot="R180" xref="yes"/>
 <pinref part="U$2" gate="G$1" pin="TFT_D/C"/>
 </segment>
 </net>
 <net name="SCK" class="0">
 <segment>
 <pinref part="MDL1" gate="G$1" pin="GPIO14"/>
-<wire x1="15.24" y1="-27.94" x2="12.7" y2="-27.94" width="0.1524" layer="91"/>
-<label x="12.7" y="-27.94" size="0.762" layer="95" rot="R180" xref="yes"/>
+<wire x1="-50.8" y1="-25.4" x2="-53.34" y2="-25.4" width="0.1524" layer="91"/>
+<label x="-53.34" y="-25.4" size="0.762" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="-48.26" y1="-22.86" x2="-50.8" y2="-22.86" width="0.1524" layer="91"/>
-<label x="-50.8" y="-22.86" size="0.762" layer="95" rot="R180" xref="yes"/>
+<wire x1="35.56" y1="-17.78" x2="33.02" y2="-17.78" width="0.1524" layer="91"/>
+<label x="33.02" y="-17.78" size="0.762" layer="95" rot="R180" xref="yes"/>
 <pinref part="U$2" gate="G$1" pin="TFT_SCK"/>
 </segment>
 <segment>
 <pinref part="U$2" gate="G$1" pin="SD_SCK"/>
-<wire x1="-12.7" y1="-25.4" x2="-10.16" y2="-25.4" width="0.1524" layer="91"/>
-<label x="-10.16" y="-25.4" size="0.762" layer="95" xref="yes"/>
+<wire x1="71.12" y1="-20.32" x2="73.66" y2="-20.32" width="0.1524" layer="91"/>
+<label x="73.66" y="-20.32" size="0.762" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="MOSI" class="0">
 <segment>
 <pinref part="MDL1" gate="G$1" pin="GPIO13"/>
-<wire x1="15.24" y1="-33.02" x2="12.7" y2="-33.02" width="0.1524" layer="91"/>
-<label x="12.7" y="-33.02" size="0.762" layer="95" rot="R180" xref="yes"/>
+<wire x1="-50.8" y1="-30.48" x2="-53.34" y2="-30.48" width="0.1524" layer="91"/>
+<label x="-53.34" y="-30.48" size="0.762" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="-48.26" y1="-25.4" x2="-50.8" y2="-25.4" width="0.1524" layer="91"/>
-<label x="-50.8" y="-25.4" size="0.762" layer="95" rot="R180" xref="yes"/>
+<wire x1="35.56" y1="-20.32" x2="33.02" y2="-20.32" width="0.1524" layer="91"/>
+<label x="33.02" y="-20.32" size="0.762" layer="95" rot="R180" xref="yes"/>
 <pinref part="U$2" gate="G$1" pin="TFT_MOSI"/>
 </segment>
 <segment>
 <pinref part="U$2" gate="G$1" pin="SD_MOSI"/>
-<wire x1="-12.7" y1="-20.32" x2="-10.16" y2="-20.32" width="0.1524" layer="91"/>
-<label x="-10.16" y="-20.32" size="0.762" layer="95" xref="yes"/>
+<wire x1="71.12" y1="-15.24" x2="73.66" y2="-15.24" width="0.1524" layer="91"/>
+<label x="73.66" y="-15.24" size="0.762" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="VCC" class="0">
 <segment>
 <pinref part="MDL1" gate="G$1" pin="CH_PD"/>
 <pinref part="P+7" gate="VCC" pin="VCC"/>
-<wire x1="5.08" y1="-22.86" x2="15.24" y2="-22.86" width="0.1524" layer="91"/>
+<wire x1="-60.96" y1="-20.32" x2="-50.8" y2="-20.32" width="0.1524" layer="91"/>
 <pinref part="C6" gate="G$1" pin="2"/>
 <pinref part="C7" gate="G$1" pin="2"/>
-<wire x1="10.16" y1="-38.1" x2="15.24" y2="-38.1" width="0.1524" layer="91"/>
+<wire x1="-55.88" y1="-35.56" x2="-50.8" y2="-35.56" width="0.1524" layer="91"/>
 <pinref part="MDL1" gate="G$1" pin="VCC"/>
-<wire x1="10.16" y1="-38.1" x2="10.16" y2="-35.56" width="0.1524" layer="91"/>
-<junction x="10.16" y="-38.1"/>
-<wire x1="10.16" y1="-35.56" x2="15.24" y2="-35.56" width="0.1524" layer="91"/>
-<label x="12.7" y="-38.1" size="1.778" layer="95"/>
-<wire x1="10.16" y1="-35.56" x2="5.08" y2="-35.56" width="0.1524" layer="91"/>
-<wire x1="5.08" y1="-35.56" x2="5.08" y2="-22.86" width="0.1524" layer="91"/>
-<junction x="10.16" y="-35.56"/>
-<junction x="5.08" y="-22.86"/>
+<wire x1="-55.88" y1="-35.56" x2="-55.88" y2="-33.02" width="0.1524" layer="91"/>
+<junction x="-55.88" y="-35.56"/>
+<wire x1="-55.88" y1="-33.02" x2="-50.8" y2="-33.02" width="0.1524" layer="91"/>
+<label x="-53.34" y="-35.56" size="1.778" layer="95"/>
+<wire x1="-55.88" y1="-33.02" x2="-60.96" y2="-33.02" width="0.1524" layer="91"/>
+<wire x1="-60.96" y1="-33.02" x2="-60.96" y2="-20.32" width="0.1524" layer="91"/>
+<junction x="-55.88" y="-33.02"/>
+<junction x="-60.96" y="-20.32"/>
 </segment>
 <segment>
 <pinref part="U$2" gate="G$1" pin="TFT_LED"/>
 <pinref part="P+9" gate="VCC" pin="VCC"/>
-<wire x1="-63.5" y1="-17.78" x2="-63.5" y2="-20.32" width="0.1524" layer="91"/>
-<wire x1="-63.5" y1="-20.32" x2="-63.5" y2="-40.64" width="0.1524" layer="91"/>
-<wire x1="-63.5" y1="-40.64" x2="-48.26" y2="-40.64" width="0.1524" layer="91"/>
-<wire x1="-48.26" y1="-40.64" x2="-48.26" y2="-38.1" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="-12.7" x2="20.32" y2="-15.24" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="-15.24" x2="20.32" y2="-35.56" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="-35.56" x2="35.56" y2="-35.56" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="-35.56" x2="35.56" y2="-33.02" width="0.1524" layer="91"/>
 <pinref part="U$2" gate="G$1" pin="VCC"/>
-<wire x1="-63.5" y1="-20.32" x2="-48.26" y2="-20.32" width="0.1524" layer="91"/>
-<junction x="-63.5" y="-20.32"/>
+<wire x1="20.32" y1="-15.24" x2="35.56" y2="-15.24" width="0.1524" layer="91"/>
+<junction x="20.32" y="-15.24"/>
 </segment>
 <segment>
 <pinref part="SW1" gate="G$1" pin="P"/>
 <pinref part="P+10" gate="VCC" pin="VCC"/>
-<wire x1="-7.62" y1="35.56" x2="-10.16" y2="35.56" width="0.1524" layer="91"/>
-<wire x1="-10.16" y1="35.56" x2="-10.16" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="-124.46" y1="25.4" x2="-127" y2="25.4" width="0.1524" layer="91"/>
+<wire x1="-127" y1="25.4" x2="-127" y2="27.94" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="15.24" y1="-5.08" x2="15.24" y2="-2.54" width="0.1524" layer="91"/>
+<wire x1="-50.8" y1="-2.54" x2="-50.8" y2="0" width="0.1524" layer="91"/>
 <pinref part="R2" gate="G$1" pin="2"/>
 <pinref part="P+11" gate="VCC" pin="VCC"/>
 </segment>
 <segment>
-<pinref part="P+2" gate="VCC" pin="VCC"/>
-<wire x1="-35.56" y1="-99.06" x2="-30.48" y2="-99.06" width="0.1524" layer="91"/>
-<pinref part="C4" gate="G$1" pin="1"/>
-<wire x1="-30.48" y1="-99.06" x2="-25.4" y2="-99.06" width="0.1524" layer="91"/>
-<wire x1="-25.4" y1="-99.06" x2="-20.32" y2="-99.06" width="0.1524" layer="91"/>
-<wire x1="-35.56" y1="-101.6" x2="-35.56" y2="-99.06" width="0.1524" layer="91"/>
-<pinref part="C5" gate="G$1" pin="1"/>
-<wire x1="-30.48" y1="-106.68" x2="-30.48" y2="-99.06" width="0.1524" layer="91"/>
-<junction x="-30.48" y="-99.06"/>
-<pinref part="C25" gate="A" pin="1"/>
-<wire x1="-25.4" y1="-101.6" x2="-25.4" y2="-99.06" width="0.1524" layer="91"/>
-<junction x="-25.4" y="-99.06"/>
-<label x="-39.37" y="-97.79" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="U$1" gate="G$1" pin="VCC"/>
-<wire x1="25.4" y1="-81.28" x2="27.94" y2="-81.28" width="0.1524" layer="91"/>
-<pinref part="P+1" gate="VCC" pin="VCC"/>
-<wire x1="27.94" y1="-81.28" x2="27.94" y2="-78.74" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U$1" gate="G$1" pin="V3"/>
-<wire x1="0" y1="-88.9" x2="-27.94" y2="-88.9" width="0.1524" layer="91"/>
-<pinref part="P+8" gate="VCC" pin="VCC"/>
-</segment>
-<segment>
-<wire x1="58.42" y1="-15.24" x2="58.42" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="-7.62" y1="-12.7" x2="-7.62" y2="-10.16" width="0.1524" layer="91"/>
 <pinref part="R10" gate="G$1" pin="2"/>
 <pinref part="P+12" gate="VCC" pin="VCC"/>
 </segment>
 <segment>
-<wire x1="66.04" y1="-17.78" x2="66.04" y2="-15.24" width="0.1524" layer="91"/>
+<wire x1="0" y1="-15.24" x2="0" y2="-12.7" width="0.1524" layer="91"/>
 <pinref part="R11" gate="G$1" pin="2"/>
 <pinref part="P+13" gate="VCC" pin="VCC"/>
+</segment>
+<segment>
+<wire x1="-38.1" y1="25.4" x2="-35.56" y2="25.4" width="0.1524" layer="91"/>
+<pinref part="BUT_LEFT" gate="1" pin="S1"/>
+<pinref part="P+3" gate="VCC" pin="VCC"/>
+</segment>
+<segment>
+<wire x1="-22.86" y1="38.1" x2="-20.32" y2="38.1" width="0.1524" layer="91"/>
+<pinref part="BUT_UP" gate="1" pin="S1"/>
+<pinref part="P+4" gate="VCC" pin="VCC"/>
+</segment>
+<segment>
+<wire x1="-7.62" y1="25.4" x2="-5.08" y2="25.4" width="0.1524" layer="91"/>
+<pinref part="BUT_RIGHT" gate="1" pin="S1"/>
+<pinref part="P+5" gate="VCC" pin="VCC"/>
+</segment>
+<segment>
+<wire x1="-22.86" y1="12.7" x2="-20.32" y2="12.7" width="0.1524" layer="91"/>
+<pinref part="BUT_DOWN" gate="1" pin="S1"/>
+<pinref part="P+6" gate="VCC" pin="VCC"/>
+</segment>
+<segment>
+<wire x1="33.02" y1="12.7" x2="35.56" y2="12.7" width="0.1524" layer="91"/>
+<pinref part="BUT_A" gate="1" pin="S1"/>
+<pinref part="P+14" gate="VCC" pin="VCC"/>
+</segment>
+<segment>
+<wire x1="48.26" y1="25.4" x2="50.8" y2="25.4" width="0.1524" layer="91"/>
+<pinref part="BUT_B" gate="1" pin="S1"/>
+<pinref part="P+15" gate="VCC" pin="VCC"/>
+</segment>
+<segment>
+<wire x1="17.78" y1="25.4" x2="20.32" y2="25.4" width="0.1524" layer="91"/>
+<pinref part="BUT_X" gate="1" pin="S1"/>
+<pinref part="P+16" gate="VCC" pin="VCC"/>
+</segment>
+<segment>
+<wire x1="33.02" y1="38.1" x2="35.56" y2="38.1" width="0.1524" layer="91"/>
+<pinref part="BUT_Y" gate="1" pin="S1"/>
+<pinref part="P+17" gate="VCC" pin="VCC"/>
+</segment>
+<segment>
+<pinref part="U3" gate="A" pin="VCC"/>
+<wire x1="-134.62" y1="-38.1" x2="-137.16" y2="-38.1" width="0.1524" layer="91"/>
+<pinref part="P+18" gate="VCC" pin="VCC"/>
 </segment>
 </net>
 <net name="MCU_RESET" class="0">
 <segment>
 <pinref part="MDL1" gate="G$1" pin="REST"/>
-<wire x1="12.7" y1="-17.78" x2="15.24" y2="-17.78" width="0.1524" layer="91"/>
-<label x="12.7" y="-17.78" size="0.762" layer="95" rot="R180" xref="yes"/>
+<wire x1="-53.34" y1="-15.24" x2="-50.8" y2="-15.24" width="0.1524" layer="91"/>
+<label x="-53.34" y="-15.24" size="0.762" layer="95" rot="R180" xref="yes"/>
 <pinref part="R2" gate="G$1" pin="1"/>
-<wire x1="15.24" y1="-15.24" x2="15.24" y2="-17.78" width="0.1524" layer="91"/>
-<junction x="15.24" y="-17.78"/>
-</segment>
-<segment>
-<pinref part="U$2" gate="G$1" pin="TFT_RESET"/>
-<wire x1="-48.26" y1="-30.48" x2="-50.8" y2="-30.48" width="0.1524" layer="91"/>
-<label x="-50.8" y="-30.48" size="0.762" layer="95" rot="R180" xref="yes"/>
+<wire x1="-50.8" y1="-12.7" x2="-50.8" y2="-15.24" width="0.1524" layer="91"/>
+<junction x="-50.8" y="-15.24"/>
 </segment>
 <segment>
 <pinref part="Q3" gate="G$0" pin="C"/>
-<wire x1="59.69" y1="-113.03" x2="63.5" y2="-113.03" width="0.1524" layer="91"/>
-<label x="63.5" y="-113.03" size="1.27" layer="95" xref="yes"/>
+<wire x1="8.89" y1="-107.95" x2="12.7" y2="-107.95" width="0.1524" layer="91"/>
+<label x="12.7" y="-107.95" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="BATT+" class="0">
 <segment>
 <pinref part="SW1" gate="G$1" pin="S"/>
 <pinref part="BATTERY1" gate="G$1" pin="+"/>
-<wire x1="5.08" y1="33.02" x2="2.54" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="-111.76" y1="22.86" x2="-114.3" y2="22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="BATT_LINK" class="0">
 <segment>
 <pinref part="BATTERY1" gate="G$1" pin="-"/>
 <pinref part="BATTERY" gate="G$1" pin="+"/>
-<wire x1="15.24" y1="33.02" x2="17.78" y2="33.02" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="BUT_0" class="0">
-<segment>
-<pinref part="MDL1" gate="G$1" pin="ADC"/>
-<wire x1="15.24" y1="-20.32" x2="12.7" y2="-20.32" width="0.1524" layer="91"/>
-<label x="12.7" y="-20.32" size="0.762" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="R3" gate="G$1" pin="1"/>
-<wire x1="-68.58" y1="10.16" x2="-66.04" y2="10.16" width="0.1524" layer="91"/>
-<label x="-63.5" y="10.16" size="0.762" layer="95" xref="yes"/>
-<pinref part="R4" gate="G$1" pin="2"/>
-<wire x1="-66.04" y1="10.16" x2="-63.5" y2="10.16" width="0.1524" layer="91"/>
-<junction x="-66.04" y="10.16"/>
-</segment>
-</net>
-<net name="BUT_1" class="0">
-<segment>
-<pinref part="BUT_LEFT" gate="1" pin="P1"/>
-<wire x1="-66.04" y1="20.32" x2="-68.58" y2="20.32" width="0.1524" layer="91"/>
-<label x="-68.58" y="20.32" size="0.762" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="BUT_A" gate="1" pin="P1"/>
-<wire x1="-10.16" y1="5.08" x2="-12.7" y2="5.08" width="0.1524" layer="91"/>
-<label x="-12.7" y="5.08" size="0.762" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="MDL1" gate="G$1" pin="RXD"/>
-<wire x1="45.72" y1="-20.32" x2="48.26" y2="-20.32" width="0.1524" layer="91"/>
-<label x="48.26" y="-20.32" size="0.762" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="R8" gate="G$1" pin="2"/>
-<wire x1="-12.7" y1="-73.66" x2="-12.7" y2="-68.58" width="0.1524" layer="91"/>
-<label x="-12.7" y="-68.58" size="0.762" layer="95" rot="R90" xref="yes"/>
-</segment>
-</net>
-<net name="BUT_2" class="0">
-<segment>
-<pinref part="BUT_DOWN" gate="1" pin="P1"/>
-<wire x1="-48.26" y1="5.08" x2="-50.8" y2="5.08" width="0.1524" layer="91"/>
-<label x="-50.8" y="5.08" size="0.762" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="BUT_B" gate="1" pin="P1"/>
-<wire x1="20.32" y1="5.08" x2="17.78" y2="5.08" width="0.1524" layer="91"/>
-<label x="17.78" y="5.08" size="0.762" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="MDL1" gate="G$1" pin="TXD"/>
-<wire x1="45.72" y1="-17.78" x2="48.26" y2="-17.78" width="0.1524" layer="91"/>
-<label x="48.26" y="-17.78" size="0.762" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="R9" gate="G$1" pin="2"/>
-<wire x1="-20.32" y1="-73.66" x2="-20.32" y2="-68.58" width="0.1524" layer="91"/>
-<label x="-20.32" y="-68.58" size="0.762" layer="95" rot="R90" xref="yes"/>
-</segment>
-</net>
-<net name="OUT_1" class="0">
-<segment>
-<pinref part="MDL1" gate="G$1" pin="GPIO2"/>
-<wire x1="45.72" y1="-30.48" x2="66.04" y2="-30.48" width="0.1524" layer="91"/>
-<label x="66.04" y="-30.48" size="0.762" layer="95" xref="yes"/>
-<pinref part="R11" gate="G$1" pin="1"/>
-<wire x1="66.04" y1="-27.94" x2="66.04" y2="-30.48" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<wire x1="-20.32" y1="20.32" x2="-17.78" y2="20.32" width="0.1524" layer="91"/>
-<pinref part="BUT_RIGHT" gate="1" pin="S1"/>
-<label x="-17.78" y="20.32" size="0.762" layer="95" xref="yes"/>
-</segment>
-<segment>
-<wire x1="0" y1="5.08" x2="2.54" y2="5.08" width="0.1524" layer="91"/>
-<pinref part="BUT_A" gate="1" pin="S1"/>
-<label x="2.54" y="5.08" size="0.762" layer="95" xref="yes"/>
-</segment>
-<segment>
-<wire x1="30.48" y1="5.08" x2="33.02" y2="5.08" width="0.1524" layer="91"/>
-<pinref part="BUT_B" gate="1" pin="S1"/>
-<label x="33.02" y="5.08" size="0.762" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="Q2" gate="G$0" pin="C"/>
-<wire x1="59.69" y1="-74.93" x2="63.5" y2="-74.93" width="0.1524" layer="91"/>
-<label x="63.5" y="-74.93" size="1.27" layer="95" xref="yes"/>
+<wire x1="-101.6" y1="22.86" x2="-99.06" y2="22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="D+" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="D+"/>
-<wire x1="-66.04" y1="-91.44" x2="0" y2="-91.44" width="0.1524" layer="91"/>
+<wire x1="-116.84" y1="-86.36" x2="-50.8" y2="-86.36" width="0.1524" layer="91"/>
 <pinref part="J2" gate="G$1" pin="D+"/>
-<label x="-43.18" y="-91.44" size="1.778" layer="95"/>
+<label x="-93.98" y="-86.36" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="D-" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="D-"/>
-<wire x1="-66.04" y1="-93.98" x2="0" y2="-93.98" width="0.1524" layer="91"/>
+<wire x1="-116.84" y1="-88.9" x2="-50.8" y2="-88.9" width="0.1524" layer="91"/>
 <pinref part="J2" gate="G$1" pin="D-"/>
-<label x="-43.18" y="-93.98" size="1.778" layer="95"/>
+<label x="-93.98" y="-88.9" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="CRYSTALIN" class="0">
 <segment>
 <pinref part="Q1" gate="G$1" pin="2"/>
-<wire x1="-12.7" y1="-104.14" x2="-12.7" y2="-96.52" width="0.1524" layer="91"/>
+<wire x1="-63.5" y1="-99.06" x2="-63.5" y2="-91.44" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="XI"/>
-<wire x1="-12.7" y1="-96.52" x2="0" y2="-96.52" width="0.1524" layer="91"/>
+<wire x1="-63.5" y1="-91.44" x2="-50.8" y2="-91.44" width="0.1524" layer="91"/>
 <pinref part="C3" gate="G$1" pin="1"/>
-<wire x1="-12.7" y1="-104.14" x2="-12.7" y2="-106.68" width="0.1524" layer="91"/>
-<junction x="-12.7" y="-104.14"/>
+<wire x1="-63.5" y1="-99.06" x2="-63.5" y2="-101.6" width="0.1524" layer="91"/>
+<junction x="-63.5" y="-99.06"/>
 </segment>
 </net>
 <net name="CRYSTALOUT" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="XO"/>
-<wire x1="0" y1="-99.06" x2="-2.54" y2="-99.06" width="0.1524" layer="91"/>
+<wire x1="-50.8" y1="-93.98" x2="-53.34" y2="-93.98" width="0.1524" layer="91"/>
 <pinref part="Q1" gate="G$1" pin="1"/>
-<wire x1="-2.54" y1="-99.06" x2="-2.54" y2="-104.14" width="0.1524" layer="91"/>
+<wire x1="-53.34" y1="-93.98" x2="-53.34" y2="-99.06" width="0.1524" layer="91"/>
 <pinref part="C1" gate="G$1" pin="1"/>
-<wire x1="-2.54" y1="-104.14" x2="-2.54" y2="-106.68" width="0.1524" layer="91"/>
-<junction x="-2.54" y="-104.14"/>
+<wire x1="-53.34" y1="-99.06" x2="-53.34" y2="-101.6" width="0.1524" layer="91"/>
+<junction x="-53.34" y="-99.06"/>
 </segment>
 </net>
 <net name="TXFROMMCU" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="RX"/>
-<wire x1="0" y1="-86.36" x2="-20.32" y2="-86.36" width="0.1524" layer="91"/>
+<wire x1="-50.8" y1="-81.28" x2="-71.12" y2="-81.28" width="0.1524" layer="91"/>
 <pinref part="R9" gate="G$1" pin="1"/>
-<wire x1="-20.32" y1="-86.36" x2="-20.32" y2="-83.82" width="0.1524" layer="91"/>
+<wire x1="-71.12" y1="-81.28" x2="-71.12" y2="-78.74" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="TXFROMPROGRAMMER" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="TX"/>
-<wire x1="0" y1="-83.82" x2="-12.7" y2="-83.82" width="0.1524" layer="91"/>
+<wire x1="-50.8" y1="-78.74" x2="-63.5" y2="-78.74" width="0.1524" layer="91"/>
 <pinref part="R8" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="SUPPLY" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="VI"/>
-<label x="-57.15" y="-96.52" size="1.778" layer="95" rot="R180"/>
+<label x="-107.95" y="-91.44" size="1.778" layer="95" rot="R180"/>
 <pinref part="J2" gate="G$1" pin="VUSB"/>
-<wire x1="-66.04" y1="-96.52" x2="-62.23" y2="-96.52" width="0.1524" layer="91"/>
-<wire x1="-62.23" y1="-96.52" x2="-62.23" y2="-99.06" width="0.1524" layer="91"/>
+<wire x1="-116.84" y1="-91.44" x2="-113.03" y2="-91.44" width="0.1524" layer="91"/>
+<wire x1="-113.03" y1="-91.44" x2="-113.03" y2="-93.98" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
 <pinref part="Q3" gate="G$0" pin="B"/>
-<wire x1="52.07" y1="-105.41" x2="49.53" y2="-105.41" width="0.1524" layer="91"/>
+<wire x1="1.27" y1="-100.33" x2="-1.27" y2="-100.33" width="0.1524" layer="91"/>
 <pinref part="R1" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$4" class="0">
 <segment>
 <pinref part="Q2" gate="G$0" pin="B"/>
-<wire x1="52.07" y1="-82.55" x2="49.53" y2="-82.55" width="0.1524" layer="91"/>
+<wire x1="1.27" y1="-77.47" x2="-1.27" y2="-77.47" width="0.1524" layer="91"/>
 <pinref part="R7" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="DTR" class="0">
 <segment>
 <pinref part="R1" gate="G$1" pin="2"/>
-<wire x1="39.37" y1="-105.41" x2="36.83" y2="-105.41" width="0.1524" layer="91"/>
-<wire x1="36.83" y1="-105.41" x2="31.75" y2="-105.41" width="0.1524" layer="91"/>
-<wire x1="31.75" y1="-105.41" x2="31.75" y2="-88.9" width="0.1524" layer="91"/>
+<wire x1="-11.43" y1="-100.33" x2="-13.97" y2="-100.33" width="0.1524" layer="91"/>
+<wire x1="-13.97" y1="-100.33" x2="-19.05" y2="-100.33" width="0.1524" layer="91"/>
+<wire x1="-19.05" y1="-100.33" x2="-19.05" y2="-83.82" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="DTR"/>
-<wire x1="31.75" y1="-88.9" x2="25.4" y2="-88.9" width="0.1524" layer="91"/>
+<wire x1="-19.05" y1="-83.82" x2="-25.4" y2="-83.82" width="0.1524" layer="91"/>
 <pinref part="Q2" gate="G$0" pin="E"/>
-<wire x1="59.69" y1="-90.17" x2="73.66" y2="-90.17" width="0.1524" layer="91"/>
-<wire x1="73.66" y1="-90.17" x2="73.66" y2="-118.11" width="0.1524" layer="91"/>
-<wire x1="73.66" y1="-118.11" x2="36.83" y2="-118.11" width="0.1524" layer="91"/>
-<wire x1="36.83" y1="-118.11" x2="36.83" y2="-105.41" width="0.1524" layer="91"/>
-<junction x="36.83" y="-105.41"/>
-<label x="27.94" y="-88.9" size="1.778" layer="95"/>
+<wire x1="8.89" y1="-85.09" x2="22.86" y2="-85.09" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="-85.09" x2="22.86" y2="-113.03" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="-113.03" x2="-13.97" y2="-113.03" width="0.1524" layer="91"/>
+<wire x1="-13.97" y1="-113.03" x2="-13.97" y2="-100.33" width="0.1524" layer="91"/>
+<junction x="-13.97" y="-100.33"/>
+<label x="-22.86" y="-83.82" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="RTS" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="RTS"/>
-<wire x1="25.4" y1="-86.36" x2="31.75" y2="-86.36" width="0.1524" layer="91"/>
-<wire x1="31.75" y1="-86.36" x2="31.75" y2="-82.55" width="0.1524" layer="91"/>
+<wire x1="-25.4" y1="-81.28" x2="-19.05" y2="-81.28" width="0.1524" layer="91"/>
+<wire x1="-19.05" y1="-81.28" x2="-19.05" y2="-77.47" width="0.1524" layer="91"/>
 <pinref part="R7" gate="G$1" pin="2"/>
-<wire x1="31.75" y1="-82.55" x2="36.83" y2="-82.55" width="0.1524" layer="91"/>
+<wire x1="-19.05" y1="-77.47" x2="-13.97" y2="-77.47" width="0.1524" layer="91"/>
 <pinref part="Q3" gate="G$0" pin="E"/>
-<wire x1="36.83" y1="-82.55" x2="39.37" y2="-82.55" width="0.1524" layer="91"/>
-<wire x1="59.69" y1="-97.79" x2="36.83" y2="-97.79" width="0.1524" layer="91"/>
-<wire x1="36.83" y1="-97.79" x2="36.83" y2="-82.55" width="0.1524" layer="91"/>
-<junction x="36.83" y="-82.55"/>
-<label x="27.94" y="-86.36" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="OUT_0" class="0">
-<segment>
-<pinref part="MDL1" gate="G$1" pin="GPIO0"/>
-<wire x1="45.72" y1="-27.94" x2="58.42" y2="-27.94" width="0.1524" layer="91"/>
-<label x="58.42" y="-27.94" size="0.762" layer="95" xref="yes"/>
-<pinref part="R10" gate="G$1" pin="1"/>
-<wire x1="58.42" y1="-25.4" x2="58.42" y2="-27.94" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<wire x1="-38.1" y1="35.56" x2="-35.56" y2="35.56" width="0.1524" layer="91"/>
-<pinref part="BUT_UP" gate="1" pin="S1"/>
-<label x="-35.56" y="35.56" size="0.762" layer="95" xref="yes"/>
-</segment>
-<segment>
-<wire x1="-55.88" y1="20.32" x2="-53.34" y2="20.32" width="0.1524" layer="91"/>
-<pinref part="BUT_LEFT" gate="1" pin="S1"/>
-<label x="-53.34" y="20.32" size="0.762" layer="95" xref="yes"/>
-</segment>
-<segment>
-<wire x1="-38.1" y1="5.08" x2="-35.56" y2="5.08" width="0.1524" layer="91"/>
-<pinref part="BUT_DOWN" gate="1" pin="S1"/>
-<label x="-35.56" y="5.08" size="0.762" layer="95" xref="yes"/>
+<wire x1="-13.97" y1="-77.47" x2="-11.43" y2="-77.47" width="0.1524" layer="91"/>
+<wire x1="8.89" y1="-92.71" x2="-13.97" y2="-92.71" width="0.1524" layer="91"/>
+<wire x1="-13.97" y1="-92.71" x2="-13.97" y2="-77.47" width="0.1524" layer="91"/>
+<junction x="-13.97" y="-77.47"/>
+<label x="-22.86" y="-81.28" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="BUZZER_1" class="0">
 <segment>
 <pinref part="MDL1" gate="G$1" pin="GPIO4"/>
-<wire x1="45.72" y1="-25.4" x2="48.26" y2="-25.4" width="0.1524" layer="91"/>
-<label x="48.26" y="-25.4" size="0.762" layer="95" xref="yes"/>
+<wire x1="-20.32" y1="-22.86" x2="-17.78" y2="-22.86" width="0.1524" layer="91"/>
+<label x="-17.78" y="-22.86" size="0.762" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="SG1" gate="SG1" pin="2"/>
-<wire x1="38.1" y1="-48.26" x2="40.64" y2="-48.26" width="0.1524" layer="91"/>
-<label x="40.64" y="-48.26" size="1.016" layer="95" xref="yes"/>
+<wire x1="-27.94" y1="-45.72" x2="-25.4" y2="-45.72" width="0.1524" layer="91"/>
+<label x="-25.4" y="-45.72" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="BUZZER_2" class="0">
 <segment>
 <pinref part="SG2" gate="SG1" pin="2"/>
-<wire x1="66.04" y1="-48.26" x2="68.58" y2="-48.26" width="0.1524" layer="91"/>
-<label x="68.58" y="-48.26" size="1.016" layer="95" xref="yes"/>
+<wire x1="0" y1="-45.72" x2="2.54" y2="-45.72" width="0.1524" layer="91"/>
+<label x="2.54" y="-45.72" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="MDL1" gate="G$1" pin="GPIO16"/>
-<wire x1="12.7" y1="-25.4" x2="15.24" y2="-25.4" width="0.1524" layer="91"/>
-<label x="12.7" y="-25.4" size="0.762" layer="95" rot="R180" xref="yes"/>
+<wire x1="-53.34" y1="-22.86" x2="-50.8" y2="-22.86" width="0.1524" layer="91"/>
+<label x="-53.34" y="-22.86" size="0.762" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="BUT_0_DIV" class="0">
+<net name="RIGHT" class="0">
 <segment>
 <pinref part="BUT_RIGHT" gate="1" pin="P1"/>
-<wire x1="-30.48" y1="20.32" x2="-33.02" y2="20.32" width="0.1524" layer="91"/>
-<label x="-33.02" y="20.32" size="0.762" layer="95" rot="R180" xref="yes"/>
+<wire x1="-17.78" y1="25.4" x2="-20.32" y2="25.4" width="0.1524" layer="91"/>
+<label x="-20.32" y="25.4" size="0.762" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="BUT_UP" gate="1" pin="P1"/>
-<wire x1="-48.26" y1="35.56" x2="-50.8" y2="35.56" width="0.1524" layer="91"/>
-<label x="-50.8" y="35.56" size="0.762" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="R3" gate="G$1" pin="2"/>
-<wire x1="-78.74" y1="10.16" x2="-81.28" y2="10.16" width="0.1524" layer="91"/>
-<label x="-81.28" y="10.16" size="0.762" layer="95" rot="R180" xref="yes"/>
+<pinref part="U3" gate="A" pin="Y3"/>
+<wire x1="-99.06" y1="-33.02" x2="-96.52" y2="-33.02" width="0.1524" layer="91"/>
+<label x="-96.52" y="-33.02" size="0.762" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="REG_VCC" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="VO"/>
-<wire x1="-44.45" y1="-99.06" x2="-43.18" y2="-99.06" width="0.1524" layer="91"/>
-<label x="-43.18" y="-99.06" size="0.762" layer="95" rot="R270" xref="yes"/>
+<wire x1="-91.44" y1="-93.98" x2="-86.36" y2="-93.98" width="0.1524" layer="91"/>
+<pinref part="C4" gate="G$1" pin="1"/>
+<wire x1="-86.36" y1="-93.98" x2="-81.28" y2="-93.98" width="0.1524" layer="91"/>
+<wire x1="-91.44" y1="-96.52" x2="-91.44" y2="-93.98" width="0.1524" layer="91"/>
+<pinref part="C5" gate="G$1" pin="1"/>
+<wire x1="-86.36" y1="-101.6" x2="-86.36" y2="-93.98" width="0.1524" layer="91"/>
+<junction x="-86.36" y="-93.98"/>
+<wire x1="-81.28" y1="-96.52" x2="-81.28" y2="-93.98" width="0.1524" layer="91"/>
+<label x="-90.17" y="-92.71" size="1.778" layer="95"/>
+<pinref part="C2" gate="G$1" pin="1"/>
+<wire x1="-95.25" y1="-93.98" x2="-91.44" y2="-93.98" width="0.1524" layer="91"/>
+<junction x="-91.44" y="-93.98"/>
 </segment>
 <segment>
 <pinref part="SW1" gate="G$1" pin="O"/>
-<wire x1="2.54" y1="38.1" x2="5.08" y2="38.1" width="0.1524" layer="91"/>
-<label x="5.08" y="45.72" size="0.762" layer="95" xref="yes"/>
-<wire x1="5.08" y1="38.1" x2="5.08" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="-114.3" y1="27.94" x2="-111.76" y2="27.94" width="0.1524" layer="91"/>
+<label x="-111.76" y="35.56" size="0.762" layer="95" xref="yes"/>
+<wire x1="-111.76" y1="27.94" x2="-111.76" y2="35.56" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="VCC"/>
+<wire x1="-25.4" y1="-76.2" x2="-22.86" y2="-76.2" width="0.1524" layer="91"/>
+<wire x1="-22.86" y1="-76.2" x2="-22.86" y2="-73.66" width="0.1524" layer="91"/>
+<label x="-22.86" y="-73.66" size="0.762" layer="95" rot="R90" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="V3"/>
+<wire x1="-50.8" y1="-83.82" x2="-78.74" y2="-83.82" width="0.1524" layer="91"/>
+<label x="-78.74" y="-83.82" size="0.762" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="GND" class="0">
 <segment>
 <pinref part="GND12" gate="1" pin="GND"/>
 <pinref part="U$2" gate="G$1" pin="GND"/>
-<wire x1="-48.26" y1="-35.56" x2="-50.8" y2="-35.56" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="-30.48" x2="33.02" y2="-30.48" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="R4" gate="G$1" pin="1"/>
-<wire x1="-66.04" y1="0" x2="-66.04" y2="-2.54" width="0.1524" layer="91"/>
+<wire x1="-83.82" y1="-27.94" x2="-83.82" y2="-30.48" width="0.1524" layer="91"/>
 <pinref part="GND2" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="GND21" gate="1" pin="GND"/>
 <pinref part="IC2" gate="G$1" pin="GND"/>
-<wire x1="-54.61" y1="-116.84" x2="-54.61" y2="-106.68" width="0.1524" layer="91"/>
+<wire x1="-105.41" y1="-111.76" x2="-105.41" y2="-101.6" width="0.1524" layer="91"/>
 <pinref part="IC2" gate="G$1" pin="GND@1"/>
-<wire x1="-54.61" y1="-106.68" x2="-52.07" y2="-106.68" width="0.1524" layer="91"/>
-<junction x="-54.61" y="-106.68"/>
+<wire x1="-105.41" y1="-101.6" x2="-102.87" y2="-101.6" width="0.1524" layer="91"/>
+<junction x="-105.41" y="-101.6"/>
 </segment>
 <segment>
 <pinref part="C4" gate="G$1" pin="2"/>
 <pinref part="GND18" gate="1" pin="GND"/>
-<wire x1="-35.56" y1="-109.22" x2="-35.56" y2="-116.84" width="0.1524" layer="91"/>
+<wire x1="-91.44" y1="-104.14" x2="-91.44" y2="-111.76" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND" gate="1" pin="GND"/>
 <pinref part="C5" gate="G$1" pin="2"/>
-<wire x1="-30.48" y1="-114.3" x2="-30.48" y2="-116.84" width="0.1524" layer="91"/>
+<wire x1="-86.36" y1="-109.22" x2="-86.36" y2="-111.76" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND20" gate="1" pin="GND"/>
-<pinref part="C25" gate="A" pin="2"/>
-<wire x1="-25.4" y1="-116.84" x2="-25.4" y2="-109.22" width="0.1524" layer="91"/>
+<wire x1="-81.28" y1="-111.76" x2="-81.28" y2="-104.14" width="0.1524" layer="91"/>
+<pinref part="C2" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="C3" gate="G$1" pin="2"/>
 <pinref part="GND14" gate="1" pin="GND"/>
-<wire x1="-12.7" y1="-114.3" x2="-12.7" y2="-116.84" width="0.1524" layer="91"/>
+<wire x1="-63.5" y1="-109.22" x2="-63.5" y2="-111.76" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="2"/>
 <pinref part="GND15" gate="1" pin="GND"/>
-<wire x1="-2.54" y1="-114.3" x2="-2.54" y2="-116.84" width="0.1524" layer="91"/>
+<wire x1="-53.34" y1="-109.22" x2="-53.34" y2="-111.76" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND17" gate="1" pin="GND"/>
-<wire x1="-2.54" y1="-76.2" x2="0" y2="-76.2" width="0.1524" layer="91"/>
+<wire x1="-53.34" y1="-71.12" x2="-50.8" y2="-71.12" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="GND"/>
-<wire x1="0" y1="-76.2" x2="0" y2="-81.28" width="0.1524" layer="91"/>
+<wire x1="-50.8" y1="-71.12" x2="-50.8" y2="-76.2" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="SG1" gate="SG1" pin="1"/>
 <pinref part="GND10" gate="1" pin="GND"/>
-<wire x1="38.1" y1="-50.8" x2="40.64" y2="-50.8" width="0.1524" layer="91"/>
+<wire x1="-27.94" y1="-48.26" x2="-25.4" y2="-48.26" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="SG2" gate="SG1" pin="1"/>
 <pinref part="GND3" gate="1" pin="GND"/>
-<wire x1="66.04" y1="-50.8" x2="68.58" y2="-50.8" width="0.1524" layer="91"/>
+<wire x1="0" y1="-48.26" x2="2.54" y2="-48.26" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="R12" gate="G$1" pin="1"/>
 <pinref part="GND6" gate="1" pin="GND"/>
-<wire x1="66.04" y1="-38.1" x2="68.58" y2="-38.1" width="0.1524" layer="91"/>
+<wire x1="0" y1="-35.56" x2="2.54" y2="-35.56" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="MDL1" gate="G$1" pin="GND"/>
 <pinref part="GND1" gate="1" pin="GND"/>
-<wire x1="45.72" y1="-35.56" x2="48.26" y2="-35.56" width="0.1524" layer="91"/>
+<wire x1="-20.32" y1="-33.02" x2="-17.78" y2="-33.02" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="BATTERY" gate="G$1" pin="-"/>
-<wire x1="27.94" y1="30.48" x2="27.94" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="-88.9" y1="20.32" x2="-88.9" y2="22.86" width="0.1524" layer="91"/>
 <pinref part="GND13" gate="1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="C6" gate="G$1" pin="1"/>
 <pinref part="C7" gate="G$1" pin="1"/>
-<wire x1="10.16" y1="-45.72" x2="15.24" y2="-45.72" width="0.1524" layer="91"/>
+<wire x1="-55.88" y1="-43.18" x2="-50.8" y2="-43.18" width="0.1524" layer="91"/>
 <pinref part="GND9" gate="1" pin="GND"/>
-<wire x1="15.24" y1="-48.26" x2="15.24" y2="-45.72" width="0.1524" layer="91"/>
-<junction x="15.24" y="-45.72"/>
+<wire x1="-50.8" y1="-45.72" x2="-50.8" y2="-43.18" width="0.1524" layer="91"/>
+<junction x="-50.8" y="-43.18"/>
 </segment>
 <segment>
 <pinref part="GND16" gate="1" pin="GND"/>
 <pinref part="J2" gate="G$1" pin="GND"/>
-<wire x1="-62.23" y1="-86.36" x2="-66.04" y2="-86.36" width="0.1524" layer="91"/>
+<wire x1="-113.03" y1="-81.28" x2="-116.84" y2="-81.28" width="0.1524" layer="91"/>
 <pinref part="J2" gate="G$1" pin="SHIELD"/>
-<wire x1="-62.23" y1="-86.36" x2="-62.23" y2="-81.28" width="0.1524" layer="91"/>
-<wire x1="-62.23" y1="-81.28" x2="-66.04" y2="-81.28" width="0.1524" layer="91"/>
-<junction x="-62.23" y="-86.36"/>
+<wire x1="-113.03" y1="-81.28" x2="-113.03" y2="-76.2" width="0.1524" layer="91"/>
+<wire x1="-113.03" y1="-76.2" x2="-116.84" y2="-76.2" width="0.1524" layer="91"/>
+<junction x="-113.03" y="-81.28"/>
+</segment>
+<segment>
+<pinref part="U3" gate="A" pin="VEE"/>
+<wire x1="-134.62" y1="-40.64" x2="-142.24" y2="-40.64" width="0.1524" layer="91"/>
+<wire x1="-142.24" y1="-40.64" x2="-142.24" y2="-33.02" width="0.1524" layer="91"/>
+<pinref part="U3" gate="A" pin="~E"/>
+<wire x1="-142.24" y1="-33.02" x2="-134.62" y2="-33.02" width="0.1524" layer="91"/>
+<wire x1="-142.24" y1="-33.02" x2="-142.24" y2="-17.78" width="0.1524" layer="91"/>
+<junction x="-142.24" y="-33.02"/>
+<pinref part="U3" gate="A" pin="GND"/>
+<wire x1="-142.24" y1="-17.78" x2="-134.62" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="-142.24" y1="-40.64" x2="-142.24" y2="-43.18" width="0.1524" layer="91"/>
+<junction x="-142.24" y="-40.64"/>
+<pinref part="GND4" gate="1" pin="GND"/>
 </segment>
 </net>
 <net name="MISO" class="0">
 <segment>
 <pinref part="U$2" gate="G$1" pin="SD_MISO"/>
-<wire x1="-12.7" y1="-22.86" x2="-10.16" y2="-22.86" width="0.1524" layer="91"/>
-<label x="-10.16" y="-22.86" size="0.762" layer="95" xref="yes"/>
+<wire x1="71.12" y1="-17.78" x2="73.66" y2="-17.78" width="0.1524" layer="91"/>
+<label x="73.66" y="-17.78" size="0.762" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="MDL1" gate="G$1" pin="GPIO12"/>
-<wire x1="15.24" y1="-30.48" x2="12.7" y2="-30.48" width="0.1524" layer="91"/>
-<label x="12.7" y="-30.48" size="0.762" layer="95" rot="R180" xref="yes"/>
+<wire x1="-50.8" y1="-27.94" x2="-53.34" y2="-27.94" width="0.1524" layer="91"/>
+<label x="-53.34" y="-27.94" size="0.762" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="CS_SIG" class="0">
 <segment>
 <pinref part="IC1" gate="A" pin="I"/>
-<wire x1="-53.34" y1="-50.8" x2="-55.88" y2="-50.8" width="0.1524" layer="91"/>
-<label x="-55.88" y="-50.8" size="1.016" layer="95" rot="R180" xref="yes"/>
+<wire x1="30.48" y1="-45.72" x2="27.94" y2="-45.72" width="0.1524" layer="91"/>
+<label x="27.94" y="-45.72" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="MDL1" gate="G$1" pin="GPIO15"/>
-<wire x1="45.72" y1="-33.02" x2="55.88" y2="-33.02" width="0.1524" layer="91"/>
-<label x="58.42" y="-33.02" size="0.762" layer="95" xref="yes"/>
-<pinref part="R12" gate="G$1" pin="2"/>
-<wire x1="55.88" y1="-33.02" x2="58.42" y2="-33.02" width="0.1524" layer="91"/>
-<wire x1="55.88" y1="-33.02" x2="55.88" y2="-38.1" width="0.1524" layer="91"/>
-<junction x="55.88" y="-33.02"/>
+<pinref part="MDL1" gate="G$1" pin="GPIO2"/>
+<wire x1="-20.32" y1="-27.94" x2="0" y2="-27.94" width="0.1524" layer="91"/>
+<label x="0" y="-27.94" size="0.762" layer="95" xref="yes"/>
+<pinref part="R11" gate="G$1" pin="1"/>
+<wire x1="0" y1="-25.4" x2="0" y2="-27.94" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$2" gate="G$1" pin="TFT_CS"/>
-<wire x1="-48.26" y1="-33.02" x2="-50.8" y2="-33.02" width="0.1524" layer="91"/>
-<label x="-50.8" y="-33.02" size="0.762" layer="95" rot="R180" xref="yes"/>
+<pinref part="U$2" gate="G$1" pin="SD_CS"/>
+<wire x1="71.12" y1="-12.7" x2="73.66" y2="-12.7" width="0.1524" layer="91"/>
+<label x="73.66" y="-12.7" size="0.762" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="CS_SIG_INVERTED" class="0">
 <segment>
 <pinref part="IC1" gate="A" pin="O"/>
-<wire x1="-38.1" y1="-50.8" x2="-35.56" y2="-50.8" width="0.1524" layer="91"/>
-<label x="-35.56" y="-50.8" size="0.762" layer="95" xref="yes"/>
+<wire x1="45.72" y1="-45.72" x2="48.26" y2="-45.72" width="0.1524" layer="91"/>
+<label x="48.26" y="-45.72" size="0.762" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="U$2" gate="G$1" pin="SD_CS"/>
-<wire x1="-12.7" y1="-17.78" x2="-10.16" y2="-17.78" width="0.1524" layer="91"/>
-<label x="-10.16" y="-17.78" size="0.762" layer="95" xref="yes"/>
+<pinref part="U$2" gate="G$1" pin="TFT_CS"/>
+<wire x1="35.56" y1="-27.94" x2="33.02" y2="-27.94" width="0.1524" layer="91"/>
+<label x="33.02" y="-27.94" size="0.762" layer="95" rot="R180" xref="yes"/>
+</segment>
+</net>
+<net name="BUT_READ" class="0">
+<segment>
+<pinref part="R3" gate="G$1" pin="1"/>
+<wire x1="-86.36" y1="-17.78" x2="-83.82" y2="-17.78" width="0.1524" layer="91"/>
+<label x="-81.28" y="-17.78" size="0.762" layer="95" xref="yes"/>
+<pinref part="R4" gate="G$1" pin="2"/>
+<wire x1="-83.82" y1="-17.78" x2="-81.28" y2="-17.78" width="0.1524" layer="91"/>
+<junction x="-83.82" y="-17.78"/>
+</segment>
+<segment>
+<pinref part="MDL1" gate="G$1" pin="ADC"/>
+<wire x1="-50.8" y1="-17.78" x2="-53.34" y2="-17.78" width="0.1524" layer="91"/>
+<label x="-53.34" y="-17.78" size="0.762" layer="95" rot="R180" xref="yes"/>
+</segment>
+</net>
+<net name="BUT_READ_3V3" class="0">
+<segment>
+<pinref part="R3" gate="G$1" pin="2"/>
+<pinref part="U3" gate="A" pin="Z"/>
+<wire x1="-96.52" y1="-17.78" x2="-99.06" y2="-17.78" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="UP" class="0">
+<segment>
+<pinref part="BUT_UP" gate="1" pin="P1"/>
+<wire x1="-33.02" y1="38.1" x2="-35.56" y2="38.1" width="0.1524" layer="91"/>
+<label x="-35.56" y="38.1" size="0.762" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U3" gate="A" pin="Y0"/>
+<wire x1="-99.06" y1="-40.64" x2="-96.52" y2="-40.64" width="0.1524" layer="91"/>
+<label x="-96.52" y="-40.64" size="0.762" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="LEFT" class="0">
+<segment>
+<pinref part="BUT_LEFT" gate="1" pin="P1"/>
+<wire x1="-48.26" y1="25.4" x2="-50.8" y2="25.4" width="0.1524" layer="91"/>
+<label x="-50.8" y="25.4" size="0.762" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U3" gate="A" pin="Y2"/>
+<wire x1="-99.06" y1="-35.56" x2="-96.52" y2="-35.56" width="0.1524" layer="91"/>
+<label x="-96.52" y="-35.56" size="0.762" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="DOWN" class="0">
+<segment>
+<pinref part="BUT_DOWN" gate="1" pin="P1"/>
+<wire x1="-33.02" y1="12.7" x2="-35.56" y2="12.7" width="0.1524" layer="91"/>
+<label x="-35.56" y="12.7" size="0.762" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U3" gate="A" pin="Y1"/>
+<wire x1="-99.06" y1="-38.1" x2="-96.52" y2="-38.1" width="0.1524" layer="91"/>
+<label x="-96.52" y="-38.1" size="0.762" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="A" class="0">
+<segment>
+<pinref part="BUT_A" gate="1" pin="P1"/>
+<wire x1="22.86" y1="12.7" x2="20.32" y2="12.7" width="0.1524" layer="91"/>
+<label x="20.32" y="12.7" size="0.762" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U3" gate="A" pin="Y4"/>
+<wire x1="-99.06" y1="-30.48" x2="-96.52" y2="-30.48" width="0.1524" layer="91"/>
+<label x="-96.52" y="-30.48" size="0.762" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="B" class="0">
+<segment>
+<pinref part="BUT_B" gate="1" pin="P1"/>
+<wire x1="38.1" y1="25.4" x2="35.56" y2="25.4" width="0.1524" layer="91"/>
+<label x="35.56" y="25.4" size="0.762" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U3" gate="A" pin="Y5"/>
+<wire x1="-99.06" y1="-27.94" x2="-96.52" y2="-27.94" width="0.1524" layer="91"/>
+<label x="-96.52" y="-27.94" size="0.762" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="X" class="0">
+<segment>
+<pinref part="BUT_X" gate="1" pin="P1"/>
+<wire x1="7.62" y1="25.4" x2="5.08" y2="25.4" width="0.1524" layer="91"/>
+<label x="5.08" y="25.4" size="0.762" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U3" gate="A" pin="Y6"/>
+<wire x1="-99.06" y1="-25.4" x2="-96.52" y2="-25.4" width="0.1524" layer="91"/>
+<label x="-96.52" y="-25.4" size="0.762" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="Y" class="0">
+<segment>
+<pinref part="BUT_Y" gate="1" pin="P1"/>
+<wire x1="22.86" y1="38.1" x2="20.32" y2="38.1" width="0.1524" layer="91"/>
+<label x="20.32" y="38.1" size="0.762" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U3" gate="A" pin="Y7"/>
+<wire x1="-99.06" y1="-22.86" x2="-96.52" y2="-22.86" width="0.1524" layer="91"/>
+<label x="-96.52" y="-22.86" size="0.762" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="S2" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="S2"/>
+<wire x1="-134.62" y1="-22.86" x2="-137.16" y2="-22.86" width="0.1524" layer="91"/>
+<label x="-137.16" y="-22.86" size="0.762" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="MDL1" gate="G$1" pin="GPIO0"/>
+<wire x1="-20.32" y1="-25.4" x2="-7.62" y2="-25.4" width="0.1524" layer="91"/>
+<label x="-7.62" y="-25.4" size="0.762" layer="95" xref="yes"/>
+<pinref part="R10" gate="G$1" pin="1"/>
+<wire x1="-7.62" y1="-22.86" x2="-7.62" y2="-25.4" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="Q2" gate="G$0" pin="C"/>
+<wire x1="8.89" y1="-69.85" x2="12.7" y2="-69.85" width="0.1524" layer="91"/>
+<label x="12.7" y="-69.85" size="1.27" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="S1" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="S1"/>
+<wire x1="-134.62" y1="-25.4" x2="-137.16" y2="-25.4" width="0.1524" layer="91"/>
+<label x="-137.16" y="-25.4" size="0.762" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="MDL1" gate="G$1" pin="RXD"/>
+<wire x1="-20.32" y1="-17.78" x2="-17.78" y2="-17.78" width="0.1524" layer="91"/>
+<label x="-17.78" y="-17.78" size="0.762" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="R8" gate="G$1" pin="2"/>
+<wire x1="-63.5" y1="-68.58" x2="-63.5" y2="-63.5" width="0.1524" layer="91"/>
+<label x="-63.5" y="-63.5" size="0.762" layer="95" rot="R90" xref="yes"/>
+</segment>
+</net>
+<net name="S0" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="S0"/>
+<wire x1="-134.62" y1="-27.94" x2="-137.16" y2="-27.94" width="0.1524" layer="91"/>
+<label x="-137.16" y="-27.94" size="0.762" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="MDL1" gate="G$1" pin="TXD"/>
+<wire x1="-20.32" y1="-15.24" x2="-17.78" y2="-15.24" width="0.1524" layer="91"/>
+<label x="-17.78" y="-15.24" size="0.762" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="R9" gate="G$1" pin="2"/>
+<wire x1="-71.12" y1="-68.58" x2="-71.12" y2="-63.5" width="0.1524" layer="91"/>
+<label x="-71.12" y="-63.5" size="0.762" layer="95" rot="R90" xref="yes"/>
+</segment>
+</net>
+<net name="TFT_RESET" class="0">
+<segment>
+<pinref part="MDL1" gate="G$1" pin="GPIO15"/>
+<wire x1="-20.32" y1="-30.48" x2="-10.16" y2="-30.48" width="0.1524" layer="91"/>
+<label x="-7.62" y="-30.48" size="0.762" layer="95" xref="yes"/>
+<pinref part="R12" gate="G$1" pin="2"/>
+<wire x1="-10.16" y1="-30.48" x2="-7.62" y2="-30.48" width="0.1524" layer="91"/>
+<wire x1="-10.16" y1="-30.48" x2="-10.16" y2="-35.56" width="0.1524" layer="91"/>
+<junction x="-10.16" y="-30.48"/>
+</segment>
+<segment>
+<pinref part="U$2" gate="G$1" pin="TFT_RESET"/>
+<wire x1="35.56" y1="-25.4" x2="33.02" y2="-25.4" width="0.1524" layer="91"/>
+<label x="33.02" y="-25.4" size="0.762" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 </nets>
 </sheet>
 </sheets>
 <errors>
-<approved hash="104,1,27.94,33.02,BATTERY,-,GND,,,"/>
-<approved hash="104,1,17.78,33.02,BATTERY,+,BATT_LINK,,,"/>
-<approved hash="104,1,15.24,33.02,BATTERY1,-,BATT_LINK,,,"/>
-<approved hash="104,1,5.08,33.02,BATTERY1,+,BATT+,,,"/>
-<approved hash="104,1,-48.26,-20.32,U$2,TFT_LED,VCC,,,"/>
-<approved hash="202,1,-12.7,-17.78,U$2,SD_CS,,,,"/>
-<approved hash="202,1,-12.7,-20.32,U$2,SD_MOSI,,,,"/>
-<approved hash="202,1,-12.7,-25.4,U$2,SD_SCK,,,,"/>
+<approved hash="104,1,-88.9,22.86,BATTERY,-,GND,,,"/>
+<approved hash="104,1,-99.06,22.86,BATTERY,+,BATT_LINK,,,"/>
+<approved hash="104,1,-101.6,22.86,BATTERY1,-,BATT_LINK,,,"/>
+<approved hash="104,1,-111.76,22.86,BATTERY1,+,BATT+,,,"/>
+<approved hash="104,1,35.56,-15.24,U$2,TFT_LED,VCC,,,"/>
+<approved hash="104,1,-134.62,-40.64,U3,VEE,GND,,,"/>
 </errors>
 </schematic>
 </drawing>
