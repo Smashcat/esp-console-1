@@ -5,4 +5,4 @@ Please note, this design is currently in production and has not been tested (alt
 
 Youtube video or older design here: https://www.youtube.com/watch?v=sWY_PZYmeA4
 
-![Photo of console board layout](http://www.smashcat.org/av/console_3.jpg)
+![Photo of console board layout](http://www.smashcat.org/av/esp_console_3.jpg)
