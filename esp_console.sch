@@ -7309,6 +7309,8 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <part name="GND4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+18" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1uF"/>
+<part name="R5" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="10KOHM" device="-0603-1/10W-1%" package3d_urn="urn:adsk.eagle:package:39650/1" value="100k"/>
+<part name="P+1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -7512,9 +7514,9 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <instance part="GND2" gate="1" x="-83.82" y="-33.02" smashed="yes">
 <attribute name="VALUE" x="-86.36" y="-35.56" size="1.778" layer="96"/>
 </instance>
-<instance part="IC1" gate="A" x="35.56" y="-45.72" smashed="yes">
-<attribute name="NAME" x="38.1" y="-42.545" size="1.778" layer="95"/>
-<attribute name="VALUE" x="38.1" y="-50.8" size="1.778" layer="96"/>
+<instance part="IC1" gate="A" x="35.56" y="-58.42" smashed="yes">
+<attribute name="NAME" x="38.1" y="-55.245" size="1.778" layer="95"/>
+<attribute name="VALUE" x="38.1" y="-63.5" size="1.778" layer="96"/>
 </instance>
 <instance part="U3" gate="A" x="-116.84" y="-33.02" smashed="yes" rot="MR180">
 <attribute name="NAME" x="-122.3772" y="-48.7172" size="2.0828" layer="95" ratio="10" rot="SMR180"/>
@@ -7561,6 +7563,13 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <instance part="C2" gate="G$1" x="-81.28" y="-99.06" smashed="yes">
 <attribute name="NAME" x="-79.756" y="-98.679" size="1.778" layer="95"/>
 <attribute name="VALUE" x="-79.756" y="-103.759" size="1.778" layer="96"/>
+</instance>
+<instance part="R5" gate="G$1" x="45.72" y="-50.8" smashed="yes" rot="R90">
+<attribute name="NAME" x="44.196" y="-50.8" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="47.244" y="-50.8" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+</instance>
+<instance part="P+1" gate="VCC" x="45.72" y="-40.64" smashed="yes">
+<attribute name="VALUE" x="43.18" y="-43.18" size="1.778" layer="96" rot="R90"/>
 </instance>
 </instances>
 <busses>
@@ -7706,6 +7715,11 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <pinref part="U3" gate="A" pin="VCC"/>
 <wire x1="-134.62" y1="-38.1" x2="-137.16" y2="-38.1" width="0.1524" layer="91"/>
 <pinref part="P+18" gate="VCC" pin="VCC"/>
+</segment>
+<segment>
+<wire x1="45.72" y1="-45.72" x2="45.72" y2="-43.18" width="0.1524" layer="91"/>
+<pinref part="R5" gate="G$1" pin="2"/>
+<pinref part="P+1" gate="VCC" pin="VCC"/>
 </segment>
 </net>
 <net name="MCU_RESET" class="0">
@@ -8037,8 +8051,8 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <net name="CS_SIG" class="0">
 <segment>
 <pinref part="IC1" gate="A" pin="I"/>
-<wire x1="30.48" y1="-45.72" x2="27.94" y2="-45.72" width="0.1524" layer="91"/>
-<label x="27.94" y="-45.72" size="1.016" layer="95" rot="R180" xref="yes"/>
+<wire x1="30.48" y1="-58.42" x2="27.94" y2="-58.42" width="0.1524" layer="91"/>
+<label x="27.94" y="-58.42" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="MDL1" gate="G$1" pin="GPIO2"/>
@@ -8056,8 +8070,11 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <net name="CS_SIG_INVERTED" class="0">
 <segment>
 <pinref part="IC1" gate="A" pin="O"/>
-<wire x1="45.72" y1="-45.72" x2="48.26" y2="-45.72" width="0.1524" layer="91"/>
-<label x="48.26" y="-45.72" size="0.762" layer="95" xref="yes"/>
+<wire x1="45.72" y1="-58.42" x2="48.26" y2="-58.42" width="0.1524" layer="91"/>
+<label x="48.26" y="-58.42" size="0.762" layer="95" xref="yes"/>
+<pinref part="R5" gate="G$1" pin="1"/>
+<wire x1="45.72" y1="-55.88" x2="45.72" y2="-58.42" width="0.1524" layer="91"/>
+<junction x="45.72" y="-58.42"/>
 </segment>
 <segment>
 <pinref part="U$2" gate="G$1" pin="TFT_CS"/>
