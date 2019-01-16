@@ -5,4 +5,4 @@ I have recently received the PCBs back from JLCPCB for this design, and it works
 
 Youtube video of older design here: https://www.youtube.com/watch?v=sWY_PZYmeA4
 
-![Photo of console board layout](http://www.smashcat.org/av/esp_console_3.jpg)
+![Photo of console board layout](http://www.smashcat.org/av/esp-console-8-button.png)
